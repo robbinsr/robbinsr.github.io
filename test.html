@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<script runat="server" language="C#">
+  protected void OnButtonClick(object sender, EventArgs e)
+  {
+    if(Page.IsValid)
+    {
+      successLiteral.Visible = true;
+    }
+  }
+
+</script>
+<p class="success">
+    <asp:Literal ID="successLiteral"
+                 runat="server"
+                 Text="Valid!"
+                 Visible="false" />
+</p>
+<div>
+    <sbk:InvisibleCaptcha id="commentValidator"
+                          runat="server"
+                          ErrorMessage="Oops! You must be bad at math."
+                          Display="dynamic"
+                          ValidationGroup="Invisible" />
+
+    <asp:Button ID="invisibleDemoButton" runat="server"
+                Text="Submit"
+                OnClick="OnButtonClick"
+                ValidationGroup="Invisible" />
+</div>
+</body>
+</html>
