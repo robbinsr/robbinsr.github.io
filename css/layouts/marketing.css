@@ -137,8 +137,7 @@ a.pure-button-primary {
     max-width: 100%;
     max-height: 80%;
     background: #1f8dd6;
-    background-image: url(iceberg.png);
-    background-repeat: no-repeat;
+
 background-size: auto;
     background-position: center;
   z-index: 1;
@@ -429,7 +428,7 @@ a.pure-button-primary {
     max-width: 100%;
     max-height: 100%;
     background: #1f8dd6;
-    background-image: url(iceberg.png);
+/*background-image: url(iceberg.png);*/
     background-repeat: no-repeat;
 background-size: auto;
     background-position: center;

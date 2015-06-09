@@ -59,11 +59,11 @@ body {
 
 body {
 
-  background: #fff;
+  background: #f2f2f2;
     background-position: 0px -150rem;
     background-height: 100%;
-    background-image: url("iceberg.png");
     background-size: cover;
+    /*background-image: url("iceberg.png");*/
   color: #222;
   cursor: auto;
   font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
@@ -2725,7 +2725,7 @@ meta.foundation-mq-topbar {
 /* Panels */
 .panel {
     position: relative;
-    top: 50%;
+    top: 25%;
     transform: translateY(0%);
   border-style: solid;
   border-width: 1px;
@@ -2734,7 +2734,7 @@ meta.foundation-mq-topbar {
   margin-bottom: 1.25rem;
   padding: 1.25rem;
   background: #f2f2f2;
-    opacity: 0.6;
+    opacity: 1;
     filter: alpha(opacity=40); /* For IE8 and earlier */
 
   color: #333333; }
