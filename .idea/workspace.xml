@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="948967ec-8525-4bc2-ae41-5a6bace3bd10" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/analytics.html" afterPath="$PROJECT_DIR$/analytics.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home.html" afterPath="$PROJECT_DIR$/home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/knowledge.html" afterPath="$PROJECT_DIR$/knowledge.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning.html" afterPath="$PROJECT_DIR$/learning.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/research.html" afterPath="$PROJECT_DIR$/research.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/teaching.html" afterPath="$PROJECT_DIR$/teaching.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="007550db-bd04-47ff-89e2-1ffe3cc14d52" name="Rejected commit: Default" comment="" />
@@ -28,15 +33,84 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="analytics.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="analytics.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/analytics.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.92975205" vertical-offset="1233" max-vertical-offset="2482">
-              <caret line="99" column="104" selection-start-line="0" selection-start-column="0" selection-end-line="144" selection-end-column="0" />
+            <state vertical-scroll-proportion="-2.8846154" vertical-offset="1931" max-vertical-offset="2414">
+              <caret line="118" column="10" selection-start-line="118" selection-start-column="10" selection-end-line="118" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="teaching.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/teaching.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.8076925" vertical-offset="1557" max-vertical-offset="2040">
+              <caret line="102" column="42" selection-start-line="0" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="research.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/research.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.769231" vertical-offset="937" max-vertical-offset="2125">
+              <caret line="67" column="12" selection-start-line="67" selection-start-column="12" selection-end-line="67" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="knowledge.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/knowledge.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.461538" vertical-offset="1122" max-vertical-offset="3757">
+              <caret line="82" column="12" selection-start-line="0" selection-start-column="0" selection-end-line="215" selection-end-column="0" />
               <folding>
-                <element signature="n#div#0;n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#0;n#div#4;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#0;n#div#5;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#0;n#div#6;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1433953763917" expanded="true" signature="472:512" placeholder="{...}" />
+                <marker date="1433953763917" expanded="true" signature="537:703" placeholder="{...}" />
+                <marker date="1433953763917" expanded="true" signature="736:812" placeholder="{...}" />
+                <marker date="1433953763917" expanded="true" signature="843:887" placeholder="{...}" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="learning.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learning.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.115385" vertical-offset="732" max-vertical-offset="2873">
+              <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="153" max-vertical-offset="3230">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.26086956" vertical-offset="1064" max-vertical-offset="1632">
+              <caret line="70" column="114" selection-start-line="70" selection-start-column="114" selection-end-line="70" selection-end-column="114" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -63,12 +137,13 @@
         <option value="$PROJECT_DIR$/technologies.html" />
         <option value="$PROJECT_DIR$/css/foundation.css" />
         <option value="$PROJECT_DIR$/map.html" />
-        <option value="$PROJECT_DIR$/learning.html" />
-        <option value="$PROJECT_DIR$/research.html" />
-        <option value="$PROJECT_DIR$/teaching.html" />
         <option value="$PROJECT_DIR$/css/layouts/marketing.css" />
-        <option value="$PROJECT_DIR$/home.html" />
+        <option value="$PROJECT_DIR$/knowledge.html" />
+        <option value="$PROJECT_DIR$/learning.html" />
         <option value="$PROJECT_DIR$/analytics.html" />
+        <option value="$PROJECT_DIR$/teaching.html" />
+        <option value="$PROJECT_DIR$/research.html" />
+        <option value="$PROJECT_DIR$/home.html" />
       </list>
     </option>
   </component>
@@ -150,28 +225,28 @@
       <recent name="C:\foundation\assets\img" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.analytics.html">
-    <configuration default="false" name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/foundation/index.html">
-      <RunnerSettings RunnerId="JavascriptDebugRunner" />
-      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="home.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/foundation/home.html">
-      <RunnerSettings RunnerId="JavascriptDebugRunner" />
-      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.home.html">
     <configuration default="false" name="learning.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/foundation/learning.html">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="knowledge.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/foundation/knowledge.html">
+    <configuration default="false" name="analytics.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/foundation/analytics.html">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="analytics.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/foundation/analytics.html">
+    <configuration default="false" name="teaching.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/foundation/teaching.html">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="research.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/foundation/research.html">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="home.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/foundation/home.html">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
@@ -215,18 +290,18 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.home.html (1)" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.learning.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.knowledge.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.analytics.html" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.learning.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.analytics.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.teaching.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.research.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.home.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.analytics.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.knowledge.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.home.html (1)" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.home.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.research.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.teaching.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.analytics.html" />
         <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.learning.html" />
       </list>
     </recent_temporary>
@@ -253,14 +328,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1234" height="682" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2257525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2257525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39929327" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -588,34 +663,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/research.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0703125" vertical-offset="457" max-vertical-offset="2108">
-          <caret line="29" column="29" selection-start-line="0" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learning.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11422846" vertical-offset="436" max-vertical-offset="2856">
-          <caret line="29" column="29" selection-start-line="0" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/knowledge.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8977956" vertical-offset="385" max-vertical-offset="3706">
-          <caret line="49" column="29" selection-start-line="0" selection-start-column="0" selection-end-line="212" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="3230">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/stylesheets/stylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.2996454" vertical-offset="2228" max-vertical-offset="4267">
@@ -644,28 +691,71 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.50635207" vertical-offset="1064" max-vertical-offset="1615">
-          <caret line="79" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+        <state vertical-scroll-proportion="-0.0" vertical-offset="153" max-vertical-offset="3230">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/teaching.html">
+    <entry file="file://$PROJECT_DIR$/knowledge.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6022305" vertical-offset="883" max-vertical-offset="2023">
-          <caret line="71" column="118" selection-start-line="69" selection-start-column="13" selection-end-line="71" selection-end-column="118" />
+        <state vertical-scroll-proportion="-10.461538" vertical-offset="1122" max-vertical-offset="3757">
+          <caret line="82" column="12" selection-start-line="0" selection-start-column="0" selection-end-line="215" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#4;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#5;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#6;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1433953763917" expanded="true" signature="472:512" placeholder="{...}" />
+            <marker date="1433953763917" expanded="true" signature="537:703" placeholder="{...}" />
+            <marker date="1433953763917" expanded="true" signature="736:812" placeholder="{...}" />
+            <marker date="1433953763917" expanded="true" signature="843:887" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.115385" vertical-offset="732" max-vertical-offset="2873">
+          <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/analytics.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.92975205" vertical-offset="1233" max-vertical-offset="2482">
-          <caret line="99" column="104" selection-start-line="0" selection-start-column="0" selection-end-line="144" selection-end-column="0" />
-          <folding>
-            <element signature="n#div#0;n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="-2.8846154" vertical-offset="1931" max-vertical-offset="2414">
+          <caret line="118" column="10" selection-start-line="118" selection-start-column="10" selection-end-line="118" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teaching.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.8076925" vertical-offset="1557" max-vertical-offset="2040">
+          <caret line="102" column="42" selection-start-line="0" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/research.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.769231" vertical-offset="937" max-vertical-offset="2125">
+          <caret line="67" column="12" selection-start-line="67" selection-start-column="12" selection-end-line="67" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26086956" vertical-offset="1064" max-vertical-offset="1632">
+          <caret line="70" column="114" selection-start-line="70" selection-start-column="114" selection-end-line="70" selection-end-column="114" />
+          <folding />
         </state>
       </provider>
     </entry>
