@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="948967ec-8525-4bc2-ae41-5a6bace3bd10" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/analytics.html" afterPath="$PROJECT_DIR$/analytics.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/foundation.css" afterPath="$PROJECT_DIR$/css/foundation.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home.html" afterPath="$PROJECT_DIR$/home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/knowledge.html" afterPath="$PROJECT_DIR$/knowledge.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning.html" afterPath="$PROJECT_DIR$/learning.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/research.html" afterPath="$PROJECT_DIR$/research.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/teaching.html" afterPath="$PROJECT_DIR$/teaching.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="007550db-bd04-47ff-89e2-1ffe3cc14d52" name="Rejected commit: Default" comment="" />
@@ -38,7 +31,7 @@
       <file leaf-file-name="analytics.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/analytics.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.327273" vertical-offset="0" max-vertical-offset="2431">
+            <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="2431">
               <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
               <folding />
             </state>
@@ -48,7 +41,7 @@
       <file leaf-file-name="teaching.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/teaching.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="2057">
+            <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="2057">
               <caret line="6" column="112" selection-start-line="6" selection-start-column="112" selection-end-line="6" selection-end-column="112" />
               <folding />
             </state>
@@ -58,18 +51,18 @@
       <file leaf-file-name="research.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/research.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="2142">
+            <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="2142">
               <caret line="6" column="112" selection-start-line="6" selection-start-column="112" selection-end-line="6" selection-end-column="112" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="knowledge.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="knowledge.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/knowledge.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="3774">
-              <caret line="6" column="112" selection-start-line="6" selection-start-column="112" selection-end-line="6" selection-end-column="112" />
+            <state vertical-scroll-proportion="4.374269" vertical-offset="0" max-vertical-offset="3808">
+              <caret line="132" column="56" selection-start-line="132" selection-start-column="56" selection-end-line="132" selection-end-column="56" />
               <folding>
                 <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -78,10 +71,10 @@
                 <element signature="n#style#0;n#ul#0;n#div#4;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#ul#0;n#div#5;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#ul#0;n#div#6;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1434149241677" expanded="true" signature="585:625" placeholder="{...}" />
-                <marker date="1434149241677" expanded="true" signature="650:816" placeholder="{...}" />
-                <marker date="1434149241677" expanded="true" signature="849:925" placeholder="{...}" />
-                <marker date="1434149241677" expanded="true" signature="956:1000" placeholder="{...}" />
+                <marker date="1434464432968" expanded="true" signature="585:625" placeholder="{...}" />
+                <marker date="1434464432968" expanded="true" signature="650:816" placeholder="{...}" />
+                <marker date="1434464432968" expanded="true" signature="849:925" placeholder="{...}" />
+                <marker date="1434464432968" expanded="true" signature="956:1000" placeholder="{...}" />
               </folding>
             </state>
           </provider>
@@ -90,17 +83,17 @@
       <file leaf-file-name="learning.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learning.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="2890">
+            <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="2890">
               <caret line="6" column="112" selection-start-line="6" selection-start-column="112" selection-end-line="6" selection-end-column="112" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.53125" vertical-offset="0" max-vertical-offset="3230">
+            <state vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="3230">
               <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
               <folding />
             </state>
@@ -110,7 +103,7 @@
       <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="1649">
+            <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="1649">
               <caret line="6" column="112" selection-start-line="0" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
               <folding />
             </state>
@@ -120,7 +113,7 @@
       <file leaf-file-name="stylesheet.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stylesheets/stylesheet.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4267">
+            <state vertical-scroll-proportion="0.0" vertical-offset="2397" max-vertical-offset="4267">
               <caret line="141" column="14" selection-start-line="141" selection-start-column="4" selection-end-line="141" selection-end-column="14" />
               <folding />
             </state>
@@ -130,7 +123,7 @@
       <file leaf-file-name="foundation.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/foundation.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1355.0518" vertical-offset="19582" max-vertical-offset="107899">
+            <state vertical-scroll-proportion="0.0" vertical-offset="19582" max-vertical-offset="107899">
               <caret line="5775" column="42" selection-start-line="5775" selection-start-column="42" selection-end-line="5775" selection-end-column="42" />
               <folding>
                 <element signature="e#40262#40585#2" expanded="true" />
@@ -164,10 +157,10 @@
         <option value="$PROJECT_DIR$/analytics.html" />
         <option value="$PROJECT_DIR$/teaching.html" />
         <option value="$PROJECT_DIR$/research.html" />
-        <option value="$PROJECT_DIR$/knowledge.html" />
         <option value="$PROJECT_DIR$/learning.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/home.html" />
+        <option value="$PROJECT_DIR$/knowledge.html" />
       </list>
     </option>
   </component>
@@ -175,7 +168,7 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1272" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1296" />
     <option name="height" value="698" />
@@ -203,7 +196,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -238,6 +230,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -265,17 +258,7 @@
       <recent name="C:\foundation\assets\img" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
-    <configuration default="false" name="analytics.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/foundation/analytics.html">
-      <RunnerSettings RunnerId="JavascriptDebugRunner" />
-      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="teaching.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/foundation/teaching.html">
-      <RunnerSettings RunnerId="JavascriptDebugRunner" />
-      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.knowledge.html">
     <configuration default="false" name="research.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/foundation/research.html">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
@@ -287,6 +270,16 @@
       <method />
     </configuration>
     <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/foundation/index.html">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/foundation/index.html">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="knowledge.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/foundation/knowledge.html">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
@@ -330,19 +323,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.analytics.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.teaching.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.research.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.home.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.research.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.home.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.knowledge.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.home.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.research.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.teaching.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.analytics.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.knowledge.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.home.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.research.html" />
       </list>
     </recent_temporary>
   </component>
@@ -367,8 +360,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1272" y="-8" width="1296" height="698" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1296" height="698" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
@@ -719,7 +712,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/foundation.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1355.0518" vertical-offset="19582" max-vertical-offset="107899">
+        <state vertical-scroll-proportion="0.0" vertical-offset="19582" max-vertical-offset="107899">
           <caret line="5775" column="42" selection-start-line="5775" selection-start-column="42" selection-end-line="5775" selection-end-column="42" />
           <folding>
             <element signature="e#40262#40585#2" expanded="true" />
@@ -729,7 +722,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/analytics.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.327273" vertical-offset="0" max-vertical-offset="2431">
+        <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="2431">
           <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
           <folding />
         </state>
@@ -737,7 +730,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/teaching.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="2057">
+        <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="2057">
           <caret line="6" column="112" selection-start-line="6" selection-start-column="112" selection-end-line="6" selection-end-column="112" />
           <folding />
         </state>
@@ -745,35 +738,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/research.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="2142">
+        <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="2142">
           <caret line="6" column="112" selection-start-line="6" selection-start-column="112" selection-end-line="6" selection-end-column="112" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/knowledge.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="3774">
-          <caret line="6" column="112" selection-start-line="6" selection-start-column="112" selection-end-line="6" selection-end-column="112" />
-          <folding>
-            <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#0;n#div#4;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#0;n#div#5;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#0;n#div#6;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1434149241677" expanded="true" signature="585:625" placeholder="{...}" />
-            <marker date="1434149241677" expanded="true" signature="650:816" placeholder="{...}" />
-            <marker date="1434149241677" expanded="true" signature="849:925" placeholder="{...}" />
-            <marker date="1434149241677" expanded="true" signature="956:1000" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/learning.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="2890">
+        <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="2890">
           <caret line="6" column="112" selection-start-line="6" selection-start-column="112" selection-end-line="6" selection-end-column="112" />
           <folding />
         </state>
@@ -781,7 +754,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="1649">
+        <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="1649">
           <caret line="6" column="112" selection-start-line="0" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
           <folding />
         </state>
@@ -797,9 +770,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.53125" vertical-offset="0" max-vertical-offset="3230">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="272" max-vertical-offset="3230">
           <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knowledge.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="4.374269" vertical-offset="0" max-vertical-offset="3808">
+          <caret line="132" column="56" selection-start-line="132" selection-start-column="56" selection-end-line="132" selection-end-column="56" />
+          <folding>
+            <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#4;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#5;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#6;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1434464432968" expanded="true" signature="585:625" placeholder="{...}" />
+            <marker date="1434464432968" expanded="true" signature="650:816" placeholder="{...}" />
+            <marker date="1434464432968" expanded="true" signature="849:925" placeholder="{...}" />
+            <marker date="1434464432968" expanded="true" signature="956:1000" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
