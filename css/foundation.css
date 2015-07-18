@@ -66,7 +66,7 @@ body {
     /*background-image: url("iceberg.png");*/
   color: #222;
   cursor: auto;
-  font-family: "Open Sans",  "Droid Sans", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  font-family: Roboto, "Open Sans",  "Droid Sans", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   line-height: 1.5;
@@ -3741,7 +3741,7 @@ p {
 /* Default header styles */
 h1, h2, h3, h4, h5, h6 {
   color: #222222;
-  font-family: "Open Sans",  "Droid Sans", Helvetica, Roboto, Arial, sans-serif;
+  font-family:"Ubuntu Mono",  "Open Sans",  "Droid Sans", Helvetica, Roboto, Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   line-height: 1.4;
@@ -3757,7 +3757,8 @@ h1 {
   font-size: 2.125rem; }
 
 h2 {
-  font-size: 1.6875rem; }
+  /*font-size: 1.6875rem; */
+   font-size: 2rem;}
 
 h3 {
   font-size: 1.375rem; }
@@ -3926,8 +3927,9 @@ blockquote p {
   h1 {
     font-size: 2.75rem; }
 
-  h2 {
-    font-size: 2.3125rem; }
+  h2 {font-size: 3rem;
+  }
+  /*  font-size: 2.3125rem; }*/
 
   h3 {
     font-size: 1.6875rem; }
@@ -6339,4 +6341,14 @@ th.hide-for-touch {
     content: attr(data-website) "\0040" attr(data-user);
     unicode-bidi: bidi-override;
     direction: rtl;
+}
+
+.tail {
+font-size: xx-large;
+    font-family: "Ubuntu Mono";
+}
+
+.head {
+    font-size: 3.25rem;
+
 }
