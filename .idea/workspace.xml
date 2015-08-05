@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="948967ec-8525-4bc2-ae41-5a6bace3bd10" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/analytics.html" afterPath="$PROJECT_DIR$/analytics.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="007550db-bd04-47ff-89e2-1ffe3cc14d52" name="Rejected commit: Default" comment="" />
     <ignored path="foundation.iws" />
@@ -31,8 +30,8 @@
       <file leaf-file-name="analytics.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/analytics.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.48879838" vertical-offset="2412" max-vertical-offset="3640">
-              <caret line="102" column="72" selection-start-line="0" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.50101835" vertical-offset="1860" max-vertical-offset="3614">
+              <caret line="81" column="22" selection-start-line="0" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -680,8 +679,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/analytics.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48879838" vertical-offset="2412" max-vertical-offset="3640">
-          <caret line="102" column="72" selection-start-line="0" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.50101835" vertical-offset="1860" max-vertical-offset="3614">
+          <caret line="81" column="22" selection-start-line="0" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
           <folding />
         </state>
       </provider>
