@@ -178,6 +178,8 @@ div#notebook {
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython2"><pre><span class="s">&#39;This is a lab in the Scalable Machine Learning course at Berkeley / EdX.&#39;</span>
+<span class="s">&#39;Disclaimer: Much of this code was provided as scaffolding for the lab.&#39;</span>
+<span class="s">&#39;Code cells validated by test assertion cells were written by me.&#39;</span>
 </pre></div>
 
 </div>
@@ -2535,17 +2537,9 @@ oM4Q5AAAAACgzhDkAAAAAKDOEOQAAAAAoM4Q5AAAAACgzvx/wz16Kpx/gA4AAAAASUVORK5CYII=
 <div class=" highlight hl-ipython2"><pre><span class="c"># TODO: Replace &lt;FILL IN&gt; with appropriate code</span>
 <span class="n">correlatedData</span> <span class="o">=</span> <span class="n">sc</span><span class="o">.</span><span class="n">parallelize</span><span class="p">(</span><span class="n">dataCorrelated</span><span class="p">)</span>
 <span class="n">meanCorrelated</span> <span class="o">=</span> <span class="n">correlatedData</span><span class="o">.</span><span class="n">mean</span><span class="p">()</span>
-<span class="c"># correlatedDataZeroMean = (correlatedData.map(lambda x : </span>
-<span class="c">#                                              (x[0] - meanCorrelated[0],</span>
-<span class="c">#                                              x[1] - meanCorrelated[1])))</span>
+
 <span class="n">correlatedDataZeroMean</span> <span class="o">=</span> <span class="n">correlatedData</span><span class="o">.</span><span class="n">map</span><span class="p">(</span><span class="k">lambda</span> <span class="n">x</span><span class="p">:</span> <span class="p">([(</span><span class="n">row</span> <span class="o">-</span> <span class="p">[</span><span class="n">col</span> <span class="k">for</span> <span class="n">col</span> <span class="ow">in</span> <span class="n">meanCorrelated</span><span class="p">])</span> <span class="k">for</span> <span class="n">row</span> <span class="ow">in</span> <span class="n">x</span><span class="p">][</span><span class="mi">0</span><span class="p">][</span><span class="mi">0</span><span class="p">],</span>
                                                        <span class="p">[(</span><span class="n">row</span> <span class="o">-</span> <span class="p">[</span><span class="n">col</span> <span class="k">for</span> <span class="n">col</span> <span class="ow">in</span> <span class="n">meanCorrelated</span><span class="p">])</span> <span class="k">for</span> <span class="n">row</span> <span class="ow">in</span> <span class="n">x</span><span class="p">][</span><span class="mi">1</span><span class="p">][</span><span class="mi">1</span><span class="p">]))</span>
-<span class="c"># correlatedDataZeroMean = correlatedData.map(lambda x: ([(row - [col for col in meanCorrelated]) for row in x][0][0],</span>
-<span class="c">#                                                        [(row - [col for col in meanCorrelated]) for row in x][1][1]))</span>
-<span class="c">#print(correlatedDataZeroMean.first())</span>
-<span class="c">#print meanCorrelated</span>
-<span class="c"># print correlatedData.take(1)</span>
-<span class="c"># print correlatedDataZeroMean.take(1)</span>
 </pre></div>
 
 </div>
@@ -2596,7 +2590,6 @@ oM4Q5AAAAACgzhDkAAAAAKDOEOQAAAAAoM4Q5AAAAACgzvx/wz16Kpx/gA4AAAAASUVORK5CYII=
 
 <span class="n">correlatedCov</span> <span class="o">=</span> <span class="p">(</span><span class="n">correlatedDataZeroMean</span><span class="o">.</span><span class="n">map</span><span class="p">(</span><span class="k">lambda</span> <span class="n">x</span><span class="p">:</span> <span class="n">np</span><span class="o">.</span><span class="n">outer</span><span class="p">(</span><span class="n">x</span><span class="p">,</span> <span class="n">x</span><span class="p">))</span>
                  <span class="o">.</span><span class="n">sum</span><span class="p">()</span> <span class="o">/</span> <span class="n">correlatedDataZeroMean</span><span class="o">.</span><span class="n">count</span><span class="p">())</span>
-<span class="c">#print correlatedCov</span>
 </pre></div>
 
 </div>
@@ -2654,48 +2647,13 @@ oM4Q5AAAAACgzhDkAAAAAKDOEOQAAAAAoM4Q5AAAAACgzvx/wz16Kpx/gA4AAAAASUVORK5CYII=
 <span class="sd">        np.ndarray: A multi-dimensional array where the number of rows and columns both equal the</span>
 <span class="sd">            length of the arrays in the input `RDD`.</span>
 <span class="sd">    &quot;&quot;&quot;</span>
-    <span class="c">#print(&#39;data count:&#39;)</span>
-    <span class="c">#print(data.count())</span>
-    <span class="c">#print(&#39;data first:&#39;)</span>
-    <span class="c">#print(data.first())</span>
+  
     <span class="n">meanData</span> <span class="o">=</span> <span class="n">data</span><span class="o">.</span><span class="n">mean</span><span class="p">()</span>
-    <span class="c">#print(&quot;meanData:&quot;)</span>
-    <span class="c">#print(meanData)</span>
-    
-    <span class="c">#works</span>
-    <span class="c">#newdata = data.map(lambda x: (x - meanData))</span>
-    
-    <span class="c">#print(&quot;after count:&quot;)</span>
-    <span class="c">#print(newdata.count())</span>
-    <span class="c">#print(&quot;after first:&quot;)</span>
-    <span class="c">#print(newdata.first())</span>
-    
-    <span class="c">#works</span>
-<span class="c">#     correlatedCov = (newdata.map(lambda x: np.outer(x, x))</span>
-<span class="c">#                     .sum() / newdata.count())</span>
-    
-    <span class="c">#print(&#39;correlatedCov.count:&#39;)</span>
-    <span class="c">#print(correlatedCov)</span>
+
     <span class="k">return</span> <span class="p">(</span><span class="n">data</span><span class="o">.</span><span class="n">map</span><span class="p">(</span><span class="k">lambda</span> <span class="n">x</span><span class="p">:</span> <span class="n">np</span><span class="o">.</span><span class="n">outer</span><span class="p">(</span><span class="n">x</span> <span class="o">-</span> <span class="n">meanData</span><span class="p">,</span> <span class="n">x</span> <span class="o">-</span> <span class="n">meanData</span><span class="p">))</span>
                      <span class="o">.</span><span class="n">sum</span><span class="p">()</span> <span class="o">/</span> <span class="n">data</span><span class="o">.</span><span class="n">count</span><span class="p">())</span>
 
-<span class="c">#     data = np.asarray(data.collect())</span>
-<span class="c">#     temp = data - meanData</span>
-<span class="c">#     corDataZeroMean = temp</span>
-<span class="c">#     corDataZeroMean = sc.parallelize(temp)</span>
-
-
-<span class="c"># correlatedCov = (corDataZeroMean.map(lambda x: np.outer(x, x))</span>
-<span class="c">#                    .sum() / corDataZeroMean.count())</span>
-<span class="c">#     return correlatedCov</span>
-
-<span class="c">#start_time = timeit.default_timer()</span>
-
 <span class="n">correlatedCovAuto</span> <span class="o">=</span> <span class="n">estimateCovariance</span><span class="p">(</span><span class="n">correlatedData</span><span class="p">)</span>
-<span class="c">#print correlatedCovAuto</span>
-
-<span class="c">#print(&quot;Time:&quot;)</span>
-<span class="c">#print(timeit.default_timer() - start_time) </span>
 </pre></div>
 
 </div>
@@ -2748,11 +2706,8 @@ oM4Q5AAAAACgzhDkAAAAAKDOEOQAAAAAoM4Q5AAAAACgzvx/wz16Kpx/gA4AAAAASUVORK5CYII=
 
 <span class="c"># Use np.argsort to find the top eigenvector based on the largest eigenvalue</span>
 <span class="n">inds</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">argsort</span><span class="p">(</span><span class="n">eigVals</span><span class="p">,</span> <span class="n">axis</span><span class="o">=</span><span class="mi">0</span><span class="p">)[::</span><span class="o">-</span><span class="mi">1</span><span class="p">]</span>
-<span class="c">#print(inds)</span>
 
 <span class="n">topComponent</span> <span class="o">=</span> <span class="n">eigVecs</span><span class="p">[:,</span><span class="n">inds</span><span class="p">[</span><span class="mi">0</span><span class="p">]]</span>
-<span class="c">#print(type(topComponent))</span>
-<span class="c">#print &#39;\ntop principal component: {0}&#39;.format(topComponent)</span>
 </pre></div>
 
 </div>
@@ -2808,7 +2763,6 @@ oM4Q5AAAAACgzhDkAAAAAKDOEOQAAAAAoM4Q5AAAAACgzvx/wz16Kpx/gA4AAAAASUVORK5CYII=
 <div class=" highlight hl-ipython2"><pre><span class="c"># TODO: Replace &lt;FILL IN&gt; with appropriate code</span>
 <span class="c"># Use the topComponent and the data from correlatedData to generate PCA scores</span>
 <span class="n">correlatedDataScores</span> <span class="o">=</span> <span class="n">correlatedData</span><span class="o">.</span><span class="n">map</span><span class="p">(</span><span class="k">lambda</span> <span class="n">x</span><span class="p">:</span> <span class="p">(</span><span class="n">x</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">topComponent</span><span class="p">)))</span>
-<span class="c">#print &#39;one-dimensional data (first three):\n{0}&#39;.format(np.asarray(correlatedDataScores.take(3)))</span>
 </pre></div>
 
 </div>
@@ -2869,52 +2823,25 @@ oM4Q5AAAAACgzhDkAAAAAKDOEOQAAAAAoM4Q5AAAAACgzvx/wz16Kpx/gA4AAAAASUVORK5CYII=
 <span class="sd">            rows equals the length of the arrays in the input `RDD` and the number of columns equals</span>
 <span class="sd">            `k`.  The `RDD` of scores has the same number of rows as `data` and consists of arrays</span>
 <span class="sd">            of length `k`.  Eigenvalues is an array of length d (the number of features).</span>
-<span class="sd">    &quot;&quot;&quot;</span>
-    <span class="c">#Cx = estimateCovariance(data)</span>
-    
+<span class="sd">    &quot;&quot;&quot;</span>  
     <span class="n">eigVals</span><span class="p">,</span> <span class="n">eigVecs</span> <span class="o">=</span> <span class="n">eigh</span><span class="p">(</span><span class="n">estimateCovariance</span><span class="p">(</span><span class="n">data</span><span class="p">))</span>
-<span class="c">#     # Use np.argsort to find the top eigenvectors based on the largest eigenvalues</span>
-    <span class="c">#inds = np.argsort(eigVals, axis=0)</span>
-    <span class="c">#works</span>
+
     <span class="n">inds</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">argsort</span><span class="p">(</span><span class="n">eigVals</span><span class="p">,</span> <span class="n">axis</span><span class="o">=</span><span class="mi">0</span><span class="p">)[::</span><span class="o">-</span><span class="mi">1</span><span class="p">]</span>
 
     <span class="n">topComponents</span> <span class="o">=</span> <span class="n">eigVecs</span><span class="p">[:,</span><span class="n">inds</span><span class="p">[</span><span class="mi">0</span><span class="p">:</span><span class="n">k</span><span class="p">]]</span>
-<span class="c">#     topComponents = temp</span>
     <span class="n">dataScores</span> <span class="o">=</span> <span class="n">data</span><span class="o">.</span><span class="n">map</span><span class="p">(</span><span class="k">lambda</span> <span class="n">x</span><span class="p">:</span> <span class="p">(</span><span class="n">x</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">topComponents</span><span class="p">)))</span>
     <span class="n">eigVals</span> <span class="o">=</span> <span class="n">eigVals</span><span class="p">[::</span><span class="o">-</span><span class="mi">1</span><span class="p">]</span>
-    
-    
-    
-    <span class="c">#print &#39;This is what he wants:&#39;</span>
-    <span class="c">#print &#39;[[0.68915649,  0.72461254], [-0.72461254, 0.68915649]]&#39;</span>
-
-    <span class="c">#print &#39;\ntop principal components: {0}&#39;.format(topComponents)</span>
-    
-    <span class="c"># Return the `k` principal components, `k` scores, and all eigenvalues</span>
-    <span class="c">#return topComponents, dataScores, eigVals[inds]</span>
-    <span class="c">#return topComponents, dataScores, eigVals</span>
+ 
     <span class="k">return</span> <span class="n">topComponents</span><span class="p">,</span> <span class="n">dataScores</span><span class="p">,</span> <span class="n">eigVals</span>
 
-<span class="c">#start_time = timeit.default_timer()</span>
 <span class="k">print</span><span class="p">(</span><span class="n">pca</span><span class="p">(</span><span class="n">correlatedData</span><span class="p">,</span> <span class="mi">2</span><span class="p">))</span>
 
 <span class="c"># Run pca on correlatedData with k = 2</span>
 <span class="n">topComponentsCorrelated</span><span class="p">,</span> <span class="n">correlatedDataScoresAuto</span><span class="p">,</span> <span class="n">eigenvaluesCorrelated</span> <span class="o">=</span> <span class="n">pca</span><span class="p">(</span><span class="n">correlatedData</span><span class="p">,</span> <span class="mi">2</span><span class="p">)</span>
-<span class="c">#topComponentsCorrelated, correlatedDataScoresAuto, eigenvaluesCorrelated  = pca(correlatedData, 2)</span>
-
-<span class="c"># Note that the 1st principal component is in the first column</span>
-    <span class="c">#     print &#39;topComponentsCorrelated: \n{0}&#39;.format(topComponentsCorrelated)</span>
-    <span class="c">#     print (&#39;\ncorrelatedDataScoresAuto (first three): \n{0}&#39;.format(&#39;\n&#39;.join(map(str, correlatedDataScoresAuto.take(3)))))</span>
-    <span class="c">#     print &#39;\neigenvaluesCorrelated: \n{0}&#39;.format(eigenvaluesCorrelated)</span>
 
 <span class="c"># # Create a higher dimensional test set</span>
 <span class="n">pcaTestData</span> <span class="o">=</span> <span class="n">sc</span><span class="o">.</span><span class="n">parallelize</span><span class="p">([</span><span class="n">np</span><span class="o">.</span><span class="n">arange</span><span class="p">(</span><span class="n">x</span><span class="p">,</span> <span class="n">x</span> <span class="o">+</span> <span class="mi">4</span><span class="p">)</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">np</span><span class="o">.</span><span class="n">arange</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">20</span><span class="p">,</span> <span class="mi">4</span><span class="p">)])</span>
 <span class="n">componentsTest</span><span class="p">,</span> <span class="n">testScores</span><span class="p">,</span> <span class="n">eigenvaluesTest</span> <span class="o">=</span> <span class="n">pca</span><span class="p">(</span><span class="n">pcaTestData</span><span class="p">,</span> <span class="mi">3</span><span class="p">)</span>
-    <span class="c"># print(type(pcaTestData))</span>
-
-<span class="c"># print &#39;\npcaTestData: \n{0}&#39;.format(np.array(pcaTestData.collect()))</span>
-    <span class="c"># print &#39;\ncomponentsTest: \n{0}&#39;.format(componentsTest)</span>
-    <span class="c"># print (&#39;\ntestScores (first three): \n{0}&#39;.format(&#39;\n&#39;.join(map(str, testScores.take(3)))))</span>
 </pre></div>
 
 </div>
@@ -3002,14 +2929,8 @@ oM4Q5AAAAACgzhDkAAAAAKDOEOQAAAAAoM4Q5AAAAACgzvx/wz16Kpx/gA4AAAAASUVORK5CYII=
 <div class=" highlight hl-ipython2"><pre><span class="c"># TODO: Replace &lt;FILL IN&gt; with appropriate code</span>
 <span class="n">randomData</span> <span class="o">=</span> <span class="n">sc</span><span class="o">.</span><span class="n">parallelize</span><span class="p">(</span><span class="n">dataRandom</span><span class="p">)</span>
 
-
 <span class="c"># Use pca on randomData</span>
 <span class="n">topComponentsRandom</span><span class="p">,</span> <span class="n">randomDataScoresAuto</span><span class="p">,</span> <span class="n">eigenvaluesRandom</span> <span class="o">=</span> <span class="n">pca</span><span class="p">(</span><span class="n">randomData</span><span class="p">)</span>
-
-<span class="c">#print &#39;topComponentsRandom: \n{0}&#39;.format(topComponentsRandom)</span>
-<span class="c">#print (&#39;\nrandomDataScoresAuto (first three): \n{0}&#39;</span>
-<span class="c">#       .format(&#39;\n&#39;.join(map(str, randomDataScoresAuto.take(3)))))</span>
-<span class="c">#print &#39;\neigenvaluesRandom: \n{0}&#39;.format(eigenvaluesRandom)</span>
 </pre></div>
 
 </div>
@@ -9574,11 +9495,6 @@ IiIiojaHAQ8iIiIiIiIianMY8CAiIiIiIiKiNuf/AeF1+Wp270lVAAAAAElFTkSuQmCC
 <div class=" highlight hl-ipython2"><pre><span class="c"># TODO: Replace &lt;FILL IN&gt; with appropriate code</span>
 <span class="n">threeDData</span> <span class="o">=</span> <span class="n">sc</span><span class="o">.</span><span class="n">parallelize</span><span class="p">(</span><span class="n">dataThreeD</span><span class="p">)</span>
 <span class="n">componentsThreeD</span><span class="p">,</span> <span class="n">threeDScores</span><span class="p">,</span> <span class="n">eigenvaluesThreeD</span> <span class="o">=</span> <span class="n">pca</span><span class="p">(</span><span class="n">threeDData</span><span class="p">,</span> <span class="n">k</span><span class="o">=</span><span class="mi">2</span><span class="p">)</span>
-
-<span class="c"># print &#39;componentsThreeD: \n{0}&#39;.format(componentsThreeD)</span>
-<span class="c"># print (&#39;\nthreeDScores (first three): \n{0}&#39;</span>
-<span class="c">#        .format(&#39;\n&#39;.join(map(str, threeDScores.take(3)))))</span>
-<span class="c"># print &#39;\neigenvaluesThreeD: \n{0}&#39;.format(eigenvaluesThreeD)</span>
 </pre></div>
 
 </div>
@@ -10946,20 +10862,9 @@ IiIiIiJSwRT6REREREREKphCn4iIiIiISAX7f/1bW8hjztTxAAAAAElFTkSuQmCC
 <span class="sd">            by the top `k` eigenvectors.</span>
 <span class="sd">    &quot;&quot;&quot;</span>
     <span class="n">components</span><span class="p">,</span> <span class="n">scores</span><span class="p">,</span> <span class="n">eigenvalues</span> <span class="o">=</span> <span class="n">pca</span><span class="p">(</span><span class="n">data</span><span class="p">,</span><span class="n">k</span><span class="p">)</span>
-    <span class="c">#print(type(eigenvalues))</span>
-    <span class="n">numerator</span> <span class="o">=</span> <span class="n">eigenvalues</span><span class="p">[</span><span class="mi">0</span><span class="p">:</span><span class="n">k</span><span class="p">]</span><span class="o">.</span><span class="n">sum</span><span class="p">(</span><span class="n">dtype</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">float64</span><span class="p">)</span>
-    <span class="c">#print(numerator)    </span>
+    <span class="n">numerator</span> <span class="o">=</span> <span class="n">eigenvalues</span><span class="p">[</span><span class="mi">0</span><span class="p">:</span><span class="n">k</span><span class="p">]</span><span class="o">.</span><span class="n">sum</span><span class="p">(</span><span class="n">dtype</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">float64</span><span class="p">)</span> 
     <span class="n">denominator</span> <span class="o">=</span> <span class="n">eigenvalues</span><span class="o">.</span><span class="n">sum</span><span class="p">(</span><span class="n">dtype</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">float64</span><span class="p">)</span>
-    <span class="c">#print(denominator)</span>
-    
-    <span class="c">#works</span>
-    <span class="c">#     numerator = sum(eigenvalues[0:k])</span>
-    <span class="c">#     denominator = sum(eigenvalues)</span>
-<span class="c">#     print(numerator)</span>
-<span class="c">#     print(denominator)</span>
     <span class="n">ratio</span> <span class="o">=</span> <span class="n">numerator</span><span class="o">/</span><span class="n">denominator</span>
-<span class="c">#     print(ratio)</span>
-    <span class="c">#return ratio</span>
     <span class="k">return</span> <span class="n">ratio</span>
 
 <span class="n">start_time</span> <span class="o">=</span> <span class="n">timeit</span><span class="o">.</span><span class="n">default_timer</span><span class="p">()</span>
@@ -10968,16 +10873,6 @@ IiIiIiJSwRT6REREREREKphCn4iIiIiISAX7f/1bW8hjztTxAAAAAElFTkSuQmCC
 <span class="n">varianceRandom2</span> <span class="o">=</span> <span class="n">varianceExplained</span><span class="p">(</span><span class="n">randomData</span><span class="p">,</span> <span class="mi">2</span><span class="p">)</span>
 <span class="n">varianceCorrelated2</span> <span class="o">=</span> <span class="n">varianceExplained</span><span class="p">(</span><span class="n">correlatedData</span><span class="p">,</span> <span class="mi">2</span><span class="p">)</span>
 <span class="n">varianceThreeD2</span> <span class="o">=</span> <span class="n">varianceExplained</span><span class="p">(</span><span class="n">threeDData</span><span class="p">,</span> <span class="mi">2</span><span class="p">)</span>
-<span class="c"># print (&#39;Percentage of variance explained by the first component of randomData: {0:.1f}%&#39;</span>
-<span class="c">#        .format(varianceRandom1 * 100))</span>
-<span class="c"># print (&#39;Percentage of variance explained by both components of randomData: {0:.1f}%&#39;</span>
-<span class="c">#        .format(varianceRandom2 * 100))</span>
-<span class="c"># print (&#39;\nPercentage of variance explained by the first component of correlatedData: {0:.1f}%&#39;.</span>
-<span class="c">#        format(varianceCorrelated1 * 100))</span>
-<span class="c"># print (&#39;Percentage of variance explained by both components of correlatedData: {0:.1f}%&#39;</span>
-<span class="c">#        .format(varianceCorrelated2 * 100))</span>
-<span class="c"># print (&#39;\nPercentage of variance explained by the first two components of threeDData: {0:.1f}%&#39;</span>
-<span class="c">#        .format(varianceThreeD2 * 100))</span>
 </pre></div>
 
 </div>
@@ -11032,9 +10927,7 @@ IiIiIiJSwRT6REREREREKphCn4iIiIiISAX7f/1bW8hjztTxAAAAAElFTkSuQmCC
 <span class="n">inputPath</span> <span class="o">=</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="s">&#39;cs190&#39;</span><span class="p">,</span> <span class="s">&#39;neuro.txt&#39;</span><span class="p">)</span>
 
 <span class="n">inputFile</span> <span class="o">=</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="n">baseDir</span><span class="p">,</span> <span class="n">inputPath</span><span class="p">)</span>
-
 <span class="n">lines</span> <span class="o">=</span> <span class="n">sc</span><span class="o">.</span><span class="n">textFile</span><span class="p">(</span><span class="n">inputFile</span><span class="p">)</span>
-<span class="c"># print lines.first()[0:100]</span>
 
 <span class="c"># Check that everything loaded properly</span>
 <span class="k">assert</span> <span class="nb">len</span><span class="p">(</span><span class="n">lines</span><span class="o">.</span><span class="n">first</span><span class="p">())</span> <span class="o">==</span> <span class="mi">1397</span>
@@ -11072,17 +10965,11 @@ IiIiIiJSwRT6REREREREKphCn4iIiIiISAX7f/1bW8hjztTxAAAAAElFTkSuQmCC
     <span class="n">raw_split</span> <span class="o">=</span> <span class="n">line</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="s">&quot; &quot;</span><span class="p">)</span>
     <span class="n">coordinate</span> <span class="o">=</span> <span class="p">(</span><span class="nb">int</span><span class="p">(</span><span class="n">raw_split</span><span class="p">[</span><span class="mi">0</span><span class="p">]),</span> <span class="nb">int</span><span class="p">(</span><span class="n">raw_split</span><span class="p">[</span><span class="mi">1</span><span class="p">]))</span>
     <span class="n">pia</span> <span class="o">=</span>  <span class="n">np</span><span class="o">.</span><span class="n">asarray</span><span class="p">(</span><span class="n">raw_split</span><span class="p">[</span><span class="mi">2</span><span class="p">:],</span> <span class="n">dtype</span><span class="o">=</span><span class="nb">float</span><span class="p">)</span>
-<span class="c">#    print(type(pia))</span>
-<span class="c">#     print(raw_split)</span>
-<span class="c">#     print(coordinate)</span>
-<span class="c">#     print(pia)</span>
     <span class="k">return</span> <span class="n">coordinate</span><span class="p">,</span> <span class="n">pia</span>
 
 <span class="n">rawData</span> <span class="o">=</span> <span class="n">lines</span><span class="o">.</span><span class="n">map</span><span class="p">(</span><span class="n">parse</span><span class="p">)</span>
 <span class="n">rawData</span><span class="o">.</span><span class="n">cache</span><span class="p">()</span>
 <span class="n">entry</span> <span class="o">=</span> <span class="n">rawData</span><span class="o">.</span><span class="n">first</span><span class="p">()</span>
-<span class="c"># print(len(entry[0]))</span>
-<span class="c"># print(len(entry[1]))</span>
 <span class="k">print</span> <span class="s">&#39;Length of movie is {0} seconds&#39;</span><span class="o">.</span><span class="n">format</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">entry</span><span class="p">[</span><span class="mi">1</span><span class="p">]))</span>
 <span class="k">print</span> <span class="s">&#39;Number of pixels in movie is {0:,}&#39;</span><span class="o">.</span><span class="n">format</span><span class="p">(</span><span class="n">rawData</span><span class="o">.</span><span class="n">count</span><span class="p">())</span>
 <span class="k">print</span> <span class="p">(</span><span class="s">&#39;</span><span class="se">\n</span><span class="s">First entry of rawData (with only the first five values of the NumPy array):</span><span class="se">\n</span><span class="s">({0}, {1})&#39;</span>
@@ -12041,20 +11928,14 @@ gvsMS9fLPDwZ3LQAAAAASUVORK5CYII=
 <span class="sd">        np.ndarray: The times series adjusted by subtracting the mean and dividing by the mean.</span>
 <span class="sd">    &quot;&quot;&quot;</span>
     <span class="n">a</span> <span class="o">=</span> <span class="n">ts</span>
-    <span class="c">#print(type(a))</span>
     <span class="n">b</span> <span class="o">=</span> <span class="n">ts</span><span class="o">.</span><span class="n">mean</span><span class="p">()</span>
-    <span class="c">#print(type(b))</span>
     <span class="n">c</span> <span class="o">=</span> <span class="n">a</span> <span class="o">-</span> <span class="n">b</span>
-    <span class="c">#print(type(c))</span>
     <span class="n">d</span> <span class="o">=</span> <span class="n">c</span> <span class="o">/</span> <span class="n">b</span>
-    <span class="c">#print(type(d))</span>
     <span class="k">return</span> <span class="n">d</span>
 
 <span class="n">scaledData</span> <span class="o">=</span> <span class="n">rawData</span><span class="o">.</span><span class="n">mapValues</span><span class="p">(</span><span class="k">lambda</span> <span class="n">v</span><span class="p">:</span> <span class="n">rescale</span><span class="p">(</span><span class="n">v</span><span class="p">))</span>
-<span class="c">#print(scaledData.count())</span>
 <span class="n">mnScaled</span> <span class="o">=</span> <span class="n">scaledData</span><span class="o">.</span><span class="n">map</span><span class="p">(</span><span class="k">lambda</span> <span class="p">(</span><span class="n">k</span><span class="p">,</span> <span class="n">v</span><span class="p">):</span> <span class="n">v</span><span class="p">)</span><span class="o">.</span><span class="n">map</span><span class="p">(</span><span class="k">lambda</span> <span class="n">v</span><span class="p">:</span> <span class="nb">min</span><span class="p">(</span><span class="n">v</span><span class="p">))</span><span class="o">.</span><span class="n">min</span><span class="p">()</span>
 <span class="n">mxScaled</span> <span class="o">=</span> <span class="n">scaledData</span><span class="o">.</span><span class="n">map</span><span class="p">(</span><span class="k">lambda</span> <span class="p">(</span><span class="n">k</span><span class="p">,</span> <span class="n">v</span><span class="p">):</span> <span class="n">v</span><span class="p">)</span><span class="o">.</span><span class="n">map</span><span class="p">(</span><span class="k">lambda</span> <span class="n">v</span><span class="p">:</span> <span class="nb">max</span><span class="p">(</span><span class="n">v</span><span class="p">))</span><span class="o">.</span><span class="n">max</span><span class="p">()</span>
-<span class="c">#print mnScaled, mxScaled</span>
 </pre></div>
 
 </div>
@@ -17875,10 +17756,6 @@ sumByTwoKron.dot(vector): [ 1.  5.  9.]
 <span class="n">timeData</span> <span class="o">=</span> <span class="n">scaledData</span><span class="o">.</span><span class="n">map</span><span class="p">(</span><span class="k">lambda</span> <span class="p">(</span><span class="n">k</span><span class="p">,</span> <span class="n">v</span><span class="p">):</span> <span class="p">(</span><span class="n">k</span><span class="p">,</span> <span class="n">T</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">v</span><span class="p">)))</span>
 
 <span class="k">print</span><span class="p">(</span><span class="n">timeData</span><span class="o">.</span><span class="n">values</span><span class="p">()</span><span class="o">.</span><span class="n">first</span><span class="p">())</span>
-
-<span class="c">#timeData.cache()</span>
-<span class="c">#print timeData.count()</span>
-<span class="c">#print timeData.first()</span>
 </pre></div>
 
 </div>
