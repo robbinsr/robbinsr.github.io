@@ -2,6 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="948967ec-8525-4bc2-ae41-5a6bace3bd10" name="Default" comment="">
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\teaching.html" afterPath="$PROJECT_DIR$/customer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/analytics.html" afterPath="$PROJECT_DIR$/analytics.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data_stores.html" afterPath="$PROJECT_DIR$/data_stores.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/future.html" afterPath="$PROJECT_DIR$/future.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home.html" afterPath="$PROJECT_DIR$/home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning.html" afterPath="$PROJECT_DIR$/learning.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/old.technologies.html" afterPath="$PROJECT_DIR$/old.technologies.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/programming.html" afterPath="$PROJECT_DIR$/programming.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/research.html" afterPath="$PROJECT_DIR$/research.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/researching.html" afterPath="$PROJECT_DIR$/researching.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skills.html" afterPath="$PROJECT_DIR$/skills.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tools.html" afterPath="$PROJECT_DIR$/tools.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="007550db-bd04-47ff-89e2-1ffe3cc14d52" name="Rejected commit: Default" comment="" />
@@ -18,97 +30,17 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="DaemonCodeAnalyzer">
-    <disable_hints />
-  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="foundation" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="skills.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/skills.html">
+      <file leaf-file-name="customer.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/customer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="5047" max-vertical-offset="6266">
-              <caret line="197" column="0" selection-start-line="197" selection-start-column="0" selection-end-line="197" selection-end-column="0" />
-              <folding>
-                <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#a#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#span#0;n#a#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#a#0;n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#span#0;n#a#0;n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1439391245716" expanded="true" signature="681:721" placeholder="{...}" />
-                <marker date="1439391245716" expanded="true" signature="746:912" placeholder="{...}" />
-                <marker date="1439391245716" expanded="true" signature="945:1021" placeholder="{...}" />
-                <marker date="1439391245716" expanded="true" signature="1052:1096" placeholder="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tools.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tools.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="6841" max-vertical-offset="8060">
-              <caret line="270" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="304" selection-end-column="0" />
-              <folding>
-                <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#a#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#span#0;n#a#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#a#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#span#0;n#a#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1439391335997" expanded="true" signature="680:720" placeholder="{...}" />
-                <marker date="1439391335997" expanded="true" signature="745:911" placeholder="{...}" />
-                <marker date="1439391335997" expanded="true" signature="944:1020" placeholder="{...}" />
-                <marker date="1439391335997" expanded="true" signature="1051:1095" placeholder="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="learning.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learning.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="4579" max-vertical-offset="5434">
-              <caret line="191" column="96" selection-start-line="0" selection-start-column="0" selection-end-line="203" selection-end-column="0" />
-              <folding>
-                <element signature="n#style#0;n#a#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#a#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#span#0;n#a#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#a#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#span#0;n#a#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="analytics.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/analytics.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="3409" max-vertical-offset="4472">
-              <caret line="148" column="104" selection-start-line="0" selection-start-column="0" selection-end-line="166" selection-end-column="0" />
-              <folding>
-                <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#a#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#span#0;n#a#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#a#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#span#0;n#a#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="teaching.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/teaching.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="2837" max-vertical-offset="3744">
-              <caret line="126" column="102" selection-start-line="0" selection-start-column="0" selection-end-line="138" selection-end-column="0" />
+            <state vertical-scroll-proportion="-7.6285715">
+              <caret line="101" column="62" selection-start-line="0" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#a#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -122,8 +54,8 @@
       <file leaf-file-name="research.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/research.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.598778" vertical-offset="3684" max-vertical-offset="4498">
-              <caret line="153" column="104" selection-start-line="0" selection-start-column="0" selection-end-line="167" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.5355191">
+              <caret line="45" column="32" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#a#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -166,18 +98,23 @@
         <option value="$PROJECT_DIR$/learning.html" />
         <option value="$PROJECT_DIR$/analytics.html" />
         <option value="$PROJECT_DIR$/teaching.html" />
+        <option value="$PROJECT_DIR$/customer.html" />
         <option value="$PROJECT_DIR$/research.html" />
       </list>
     </option>
   </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
   </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1272" />
-    <option name="y" value="-8" />
-    <option name="width" value="1296" />
-    <option name="height" value="698" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1618" />
+    <option name="height" value="870" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -202,6 +139,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -210,9 +148,19 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="foundation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="robbinsr.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -226,6 +174,7 @@
     <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.Font" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="restartRequiresConfirmation" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -240,30 +189,20 @@
       <recent name="C:\foundation\assets\img" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.research.html">
-    <configuration default="false" name="tools.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/foundation/tools.html">
-      <RunnerSettings RunnerId="JavascriptDebugRunner" />
-      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+  <component name="RunManager" selected="JavaScript Debug.customer.html">
+    <configuration default="false" name="skills.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/foundation/skills.html">
       <method />
     </configuration>
-    <configuration default="false" name="learning.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/foundation/learning.html">
-      <RunnerSettings RunnerId="JavascriptDebugRunner" />
-      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+    <configuration default="false" name="tools.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/foundation/tools.html">
       <method />
     </configuration>
-    <configuration default="false" name="skills.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/foundation/skills.html">
-      <RunnerSettings RunnerId="JavascriptDebugRunner" />
-      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+    <configuration default="false" name="learning.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/foundation/learning.html">
       <method />
     </configuration>
-    <configuration default="false" name="teaching.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/foundation/teaching.html">
-      <RunnerSettings RunnerId="JavascriptDebugRunner" />
-      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+    <configuration default="false" name="analytics.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/foundation/analytics.html">
       <method />
     </configuration>
-    <configuration default="false" name="research.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/foundation/research.html">
-      <RunnerSettings RunnerId="JavascriptDebugRunner" />
-      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+    <configuration default="false" name="customer.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/foundation/customer.html">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -276,14 +215,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JsTestDriver-test-runner" factoryName="JsTestDriver">
       <setting name="configLocationType" value="CONFIG_FILE" />
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="Chrome" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
@@ -305,16 +244,16 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.tools.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.learning.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.skills.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.teaching.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.research.html" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.skills.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.tools.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.learning.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.analytics.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.customer.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.research.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.teaching.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.customer.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.analytics.html" />
         <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.learning.html" />
         <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.tools.html" />
         <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.skills.html" />
@@ -342,49 +281,49 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1272" y="-8" width="1296" height="698" extended-state="6" />
-    <editor active="false" />
+    <frame x="-9" y="-9" width="1618" height="870" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.40825397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3036566" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329806" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.021201413" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39858907" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329806" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39722222" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329806" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.021201413" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.021201413" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39929327" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329806" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329806" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329806" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329806" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21462639" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.021201413" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39929327" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -399,9 +338,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="myTodoPanelSettings">
-      <TodoPanelSettings />
-    </option>
     <MESSAGE value="updated email image" />
     <option name="LAST_COMMIT_MESSAGE" value="updated email image" />
   </component>
@@ -412,210 +348,210 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="714">
+        <state vertical-scroll-proportion="0.0">
           <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2464" max-vertical-offset="3230">
+        <state vertical-scroll-proportion="0.0">
           <caret line="148" column="21" selection-start-line="147" selection-start-column="47" selection-end-line="148" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/teaching.html">
+    <entry file="file://$PROJECT_DIR$/customer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="319" max-vertical-offset="2142">
+        <state vertical-scroll-proportion="0.0">
           <caret line="36" column="25" selection-start-line="0" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/research.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="440" max-vertical-offset="2227">
+        <state vertical-scroll-proportion="0.0">
           <caret line="36" column="25" selection-start-line="0" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/foundation.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="107418" max-vertical-offset="107814">
+        <state vertical-scroll-proportion="0.0">
           <caret line="6330" column="33" selection-start-line="6330" selection-start-column="33" selection-end-line="6330" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/stylesheets/normalize.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7310">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/stylesheets/github-light.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1382" max-vertical-offset="2074">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1522" max-vertical-offset="2074">
+        <state vertical-scroll-proportion="0.0">
           <caret line="98" column="12" selection-start-line="98" selection-start-column="12" selection-end-line="98" selection-end-column="102" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/analytics.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1974" max-vertical-offset="2601">
+        <state vertical-scroll-proportion="0.0">
           <caret line="126" column="12" selection-start-line="126" selection-start-column="12" selection-end-line="126" selection-end-column="102" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="714">
+        <state vertical-scroll-proportion="0.0">
           <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2464" max-vertical-offset="3230">
+        <state vertical-scroll-proportion="0.0">
           <caret line="148" column="21" selection-start-line="147" selection-start-column="47" selection-end-line="148" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/teaching.html">
+    <entry file="file://$PROJECT_DIR$/customer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1560" max-vertical-offset="2142">
+        <state vertical-scroll-proportion="0.0">
           <caret line="103" column="19" selection-start-line="103" selection-start-column="19" selection-end-line="103" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/research.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2227">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/foundation.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="107418" max-vertical-offset="107814">
+        <state vertical-scroll-proportion="0.0">
           <caret line="6330" column="33" selection-start-line="6330" selection-start-column="33" selection-end-line="6330" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/stylesheets/normalize.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7310">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/stylesheets/github-light.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1382" max-vertical-offset="2074">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2074">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/analytics.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="292" max-vertical-offset="2584">
+        <state vertical-scroll-proportion="0.0">
           <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2172" max-vertical-offset="3230">
+        <state vertical-scroll-proportion="0.0">
           <caret line="130" column="38" selection-start-line="130" selection-start-column="38" selection-end-line="130" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/layouts/marketing.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="4710" max-vertical-offset="10149">
+        <state vertical-scroll-proportion="0.0">
           <caret line="292" column="4" selection-start-line="292" selection-start-column="4" selection-end-line="292" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="996" max-vertical-offset="2142">
+        <state vertical-scroll-proportion="0.0">
           <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/analytics.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1819">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="996" max-vertical-offset="2142">
+        <state vertical-scroll-proportion="0.0">
           <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/analytics.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1106" max-vertical-offset="2618">
+        <state vertical-scroll-proportion="0.0">
           <caret line="76" column="31" selection-start-line="0" selection-start-column="0" selection-end-line="148" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="996" max-vertical-offset="2142">
+        <state vertical-scroll-proportion="0.0">
           <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/analytics.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1106" max-vertical-offset="2618">
+        <state vertical-scroll-proportion="0.0">
           <caret line="76" column="31" selection-start-line="0" selection-start-column="0" selection-end-line="148" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="996" max-vertical-offset="2142">
+        <state vertical-scroll-proportion="0.0">
           <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/analytics.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1106" max-vertical-offset="2618">
+        <state vertical-scroll-proportion="0.0">
           <caret line="76" column="31" selection-start-line="0" selection-start-column="0" selection-end-line="148" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/stylesheets/normalize.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7310">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.734375" vertical-offset="202" max-vertical-offset="714">
+        <state vertical-scroll-proportion="0.734375">
           <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
         </state>
       </provider>
@@ -652,7 +588,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/stylesheets/github-light.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2925532" vertical-offset="1501" max-vertical-offset="2074">
+        <state vertical-scroll-proportion="0.2925532">
           <caret line="98" column="12" selection-start-line="98" selection-start-column="2" selection-end-line="98" selection-end-column="12" />
         </state>
       </provider>
@@ -664,7 +600,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/foundation.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.49429658" vertical-offset="1326" max-vertical-offset="165490">
+        <state vertical-scroll-proportion="0.49429658">
           <caret line="61" column="6" selection-start-line="61" selection-start-column="6" selection-end-line="61" selection-end-column="6" />
         </state>
       </provider>
@@ -676,14 +612,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/layouts/marketing.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16539924" vertical-offset="5087" max-vertical-offset="16328">
+        <state vertical-scroll-proportion="0.16539924">
           <caret line="199" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="622" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31364563" vertical-offset="2290" max-vertical-offset="5096">
+        <state vertical-scroll-proportion="0.31364563">
           <caret line="94" column="47" selection-start-line="94" selection-start-column="43" selection-end-line="94" selection-end-column="47" />
         </state>
       </provider>
@@ -695,22 +631,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/stylesheets/stylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31368822" vertical-offset="3501" max-vertical-offset="6526">
+        <state vertical-scroll-proportion="0.31368822">
           <caret line="141" column="14" selection-start-line="141" selection-start-column="4" selection-end-line="141" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1527495" vertical-offset="1849" max-vertical-offset="2730">
-          <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+        <state vertical-scroll-proportion="-1.3650306">
+          <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/skills.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="5047" max-vertical-offset="6266">
-          <caret line="197" column="0" selection-start-line="197" selection-start-column="0" selection-end-line="197" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.17484662">
+          <caret line="54" column="10" selection-start-line="54" selection-start-column="10" selection-end-line="54" selection-end-column="10" />
           <folding>
             <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#a#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -718,18 +655,18 @@
             <element signature="n#style#0;n#a#0;n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#a#0;n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#span#0;n#a#0;n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1439391245716" expanded="true" signature="681:721" placeholder="{...}" />
-            <marker date="1439391245716" expanded="true" signature="746:912" placeholder="{...}" />
-            <marker date="1439391245716" expanded="true" signature="945:1021" placeholder="{...}" />
-            <marker date="1439391245716" expanded="true" signature="1052:1096" placeholder="{...}" />
+            <marker date="1439907780705" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439907780705" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439907780705" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439907780705" expanded="true" signature="-1:-1" placeholder="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tools.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="6841" max-vertical-offset="8060">
-          <caret line="270" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="304" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.27300614">
+          <caret line="57" column="42" selection-start-line="57" selection-start-column="42" selection-end-line="57" selection-end-column="42" />
           <folding>
             <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -738,18 +675,18 @@
             <element signature="n#style#0;n#a#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#a#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#span#0;n#a#0;n#div#2;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1439391335997" expanded="true" signature="680:720" placeholder="{...}" />
-            <marker date="1439391335997" expanded="true" signature="745:911" placeholder="{...}" />
-            <marker date="1439391335997" expanded="true" signature="944:1020" placeholder="{...}" />
-            <marker date="1439391335997" expanded="true" signature="1051:1095" placeholder="{...}" />
+            <marker date="1439907780734" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439907780734" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439907780734" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1439907780734" expanded="true" signature="-1:-1" placeholder="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/learning.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="4579" max-vertical-offset="5434">
-          <caret line="191" column="96" selection-start-line="0" selection-start-column="0" selection-end-line="203" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.4785276">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
           <folding>
             <element signature="n#style#0;n#a#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#a#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -763,8 +700,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/analytics.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="3409" max-vertical-offset="4472">
-          <caret line="148" column="104" selection-start-line="0" selection-start-column="0" selection-end-line="166" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.41257668">
+          <caret line="36" column="33" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
           <folding>
             <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#a#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -776,10 +713,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/teaching.html">
+    <entry file="file://$PROJECT_DIR$/customer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2837" max-vertical-offset="3744">
-          <caret line="126" column="102" selection-start-line="0" selection-start-column="0" selection-end-line="138" selection-end-column="0" />
+        <state vertical-scroll-proportion="-7.6285715">
+          <caret line="101" column="62" selection-start-line="0" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#a#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#a#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -791,8 +728,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/research.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.598778" vertical-offset="3684" max-vertical-offset="4498">
-          <caret line="153" column="104" selection-start-line="0" selection-start-column="0" selection-end-line="167" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.5355191">
+          <caret line="45" column="32" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
           <folding>
             <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#a#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
