@@ -2,297 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="948967ec-8525-4bc2-ae41-5a6bace3bd10" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\2b.psd" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-address-book.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-alert.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-align-center.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-align-justify.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-align-left.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-align-right.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-anchor.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-annotate.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-archive.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-arrow-down.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-arrow-left.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-arrow-right.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-arrow-up.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-arrows-compress.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-arrows-expand.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-arrows-in.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-arrows-out.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-asl.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-asterisk.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-at-sign.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-background-color.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-battery-empty.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-battery-full.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-battery-half.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-bitcoin-circle.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-bitcoin.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-blind.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-bluetooth.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-bold.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-book-bookmark.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-book.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-bookmark.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-braille.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-burst-new.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-burst-sale.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-burst.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-calendar.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-camera.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-check.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-checkbox.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-clipboard-notes.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-clipboard-pencil.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-clipboard.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-clock.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-closed-caption.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-cloud.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-comment-minus.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-comment-quotes.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-comment-video.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-comment.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-comments.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-compass.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-contrast.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-credit-card.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-crop.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-crown.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-css3.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-database.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-die-five.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-die-four.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-die-one.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-die-six.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-die-three.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-die-two.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-dislike.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-dollar-bill.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-dollar.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-download.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-eject.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-elevator.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-euro.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-eye.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-fast-forward.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-female-symbol.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-female.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-filter.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-first-aid.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-flag.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-folder-add.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-folder-lock.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-folder.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-foot.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-foundation.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-graph-bar.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-graph-horizontal.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-graph-pie.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-graph-trend.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-guide-dog.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-hearing-aid.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-heart.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-home.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-html5.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-indent-less.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-indent-more.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-info.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-italic.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-key.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-laptop.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-layout.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-lightbulb.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-like.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-link.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-list-bullet.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-list-number.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-list-thumbnails.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-list.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-lock.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-loop.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-magnifying-glass.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-mail.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-male-female.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-male-symbol.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-male.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-map.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-marker.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-megaphone.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-microphone.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-minus-circle.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-minus.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-mobile-signal.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-mobile.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-monitor.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-mountains.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-music.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-next.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-no-dogs.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-no-smoking.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-page-add.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-page-copy.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-page-csv.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-page-delete.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-page-doc.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-page-edit.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-page-export-csv.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-page-export-doc.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-page-export-pdf.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-page-export.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-page-filled.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-page-multiple.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-page-pdf.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-page-remove.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-page-search.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-page.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-paint-bucket.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-paperclip.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-pause.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-paw.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-paypal.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-pencil.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-photo.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-play-circle.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-play-video.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-play.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-plus.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-pound.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-power.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-previous.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-price-tag.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-pricetag-multiple.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-print.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-prohibited.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-projection-screen.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-puzzle.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-quote.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-record.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-refresh.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-results-demographics.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-results.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-rewind-ten.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-rewind.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-rss.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-safety-cone.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-save.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-share.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-sheriff-badge.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-shield.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-shopping-bag.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-shopping-cart.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-shuffle.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-skull.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-500px.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-adobe.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-amazon.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-android.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-apple.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-behance.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-bing.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-blogger.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-delicious.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-designer-news.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-deviant-art.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-digg.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-dribbble.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-drive.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-dropbox.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-evernote.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-facebook.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-flickr.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-forrst.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-foursquare.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-game-center.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-github.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-google-plus.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-hacker-news.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-hi5.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-instagram.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-joomla.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-lastfm.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-linkedin.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-medium.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-myspace.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-orkut.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-path.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-picasa.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-pinterest.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-rdio.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-reddit.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-skillshare.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-skype.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-smashing-mag.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-snapchat.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-spotify.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-squidoo.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-stack-overflow.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-steam.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-stumbleupon.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-treehouse.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-tumblr.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-twitter.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-vimeo.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-windows.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-xbox.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-yahoo.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-yelp.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-youtube.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-zerply.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-social-zurb.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-sound.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-star.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-stop.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-strikethrough.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-subscript.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-superscript.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-tablet-landscape.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-tablet-portrait.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-target-two.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-target.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-telephone-accessible.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-telephone.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-text-color.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-thumbnails.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-ticket.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-torso-business.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-torso-female.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-torso.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-torsos-all-female.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-torsos-all.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-torsos-female-male.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-torsos-male-female.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-torsos.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-trash.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-trees.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-trophy.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-underline.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-universal-access.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-unlink.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-unlock.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-upload-cloud.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-upload.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-usb.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-video.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-volume-none.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-volume-strike.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-volume.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-web.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-wheelchair.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-widget.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-wrench.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-x-circle.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-x.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-yen.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-zoom-in.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\assets\img\images\fi-zoom-out.svg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\clarifying.pdf" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\css\iceberg.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\foundation-icons\2b.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\robbins_chapter.pdf" afterPath="" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\stylesheets\iceberg.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/analytics.html" afterPath="$PROJECT_DIR$/analytics.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/customer.html" afterPath="$PROJECT_DIR$/customer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/research.html" afterPath="$PROJECT_DIR$/research.html" />
     </list>
     <list id="007550db-bd04-47ff-89e2-1ffe3cc14d52" name="Rejected commit: Default" comment="" />
     <ignored path="foundation.iws" />
@@ -314,11 +25,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="analytics.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="analytics.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/analytics.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.024096385">
-              <caret line="69" column="29" selection-start-line="69" selection-start-column="29" selection-end-line="69" selection-end-column="29" />
+            <state vertical-scroll-proportion="-4.9444447">
+              <caret line="75" column="22" selection-start-line="75" selection-start-column="22" selection-end-line="75" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="research.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/research.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.777778">
+              <caret line="78" column="65" selection-start-line="0" selection-start-column="0" selection-end-line="160" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#a#0;n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="customer.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/customer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.04066265">
+              <caret line="85" column="14" selection-start-line="85" selection-start-column="14" selection-end-line="85" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -353,9 +87,9 @@
         <option value="$PROJECT_DIR$/tools.html" />
         <option value="$PROJECT_DIR$/learning.html" />
         <option value="$PROJECT_DIR$/teaching.html" />
+        <option value="$PROJECT_DIR$/analytics.html" />
         <option value="$PROJECT_DIR$/customer.html" />
         <option value="$PROJECT_DIR$/research.html" />
-        <option value="$PROJECT_DIR$/analytics.html" />
       </list>
     </option>
   </component>
@@ -445,13 +179,7 @@
       <recent name="C:\foundation\assets\img" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.analytics.html (1)">
-    <configuration default="false" name="tools.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/foundation/tools.html">
-      <method />
-    </configuration>
-    <configuration default="false" name="learning.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/foundation/learning.html">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.customer.html (1)">
     <configuration default="false" name="analytics.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/foundation/analytics.html">
       <method />
     </configuration>
@@ -459,6 +187,12 @@
       <method />
     </configuration>
     <configuration default="false" name="analytics.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/foundation/analytics.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="research.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/foundation/research.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="customer.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/foundation/customer.html">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -500,19 +234,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.tools.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.learning.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.analytics.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.customer.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.analytics.html (1)" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.analytics.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.customer.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.analytics.html (1)" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.research.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.customer.html (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.analytics.html (1)" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.analytics.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.customer.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.learning.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.tools.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.customer.html (1)" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.research.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.analytics.html (1)" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.analytics.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.customer.html" />
       </list>
     </recent_temporary>
   </component>
@@ -537,10 +271,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1618" height="870" extended-state="7" />
-    <editor active="true" />
+    <frame x="-9" y="-9" width="1618" height="870" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329806" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -915,24 +649,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/analytics.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.9444447">
+          <caret line="75" column="22" selection-start-line="75" selection-start-column="22" selection-end-line="75" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/research.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.006135">
-          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        <state vertical-scroll-proportion="-8.777778">
+          <caret line="78" column="65" selection-start-line="0" selection-start-column="0" selection-end-line="160" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/customer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="101" column="62" selection-start-line="0" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/analytics.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.024096385">
-          <caret line="69" column="29" selection-start-line="69" selection-start-column="29" selection-end-line="69" selection-end-column="29" />
+        <state vertical-scroll-proportion="0.04066265">
+          <caret line="85" column="14" selection-start-line="85" selection-start-column="14" selection-end-line="85" selection-end-column="14" />
           <folding />
         </state>
       </provider>
