@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="948967ec-8525-4bc2-ae41-5a6bace3bd10" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookshelf.html" />
-      <change type="DELETED" beforePath="C:\robbinsr.github.io\skills.html" afterPath="" />
-      <change type="MOVED" beforePath="C:\robbinsr.github.io\tools.html" afterPath="$PROJECT_DIR$/skills_tools.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/analytics.html" afterPath="$PROJECT_DIR$/analytics.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/customer.html" afterPath="$PROJECT_DIR$/customer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home.html" afterPath="$PROJECT_DIR$/home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning.html" afterPath="$PROJECT_DIR$/learning.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/research.html" afterPath="$PROJECT_DIR$/research.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="948967ec-8525-4bc2-ae41-5a6bace3bd10" name="Default" comment="" />
     <list id="007550db-bd04-47ff-89e2-1ffe3cc14d52" name="Rejected commit: Default" comment="" />
     <ignored path="foundation.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -88,20 +78,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="research.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="research.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/research.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.53614455">
-              <caret line="24" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
+            <state vertical-scroll-proportion="-7.638889">
+              <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.722222">
+            <state vertical-scroll-proportion="0.47289157">
               <caret line="23" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
               <folding />
             </state>
@@ -718,14 +708,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.722222">
-          <caret line="23" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/learning.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-12.916667">
@@ -795,8 +777,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/research.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.53614455">
-          <caret line="24" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
+        <state vertical-scroll-proportion="-7.638889">
+          <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.47289157">
+          <caret line="23" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
           <folding />
         </state>
       </provider>
