@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="948967ec-8525-4bc2-ae41-5a6bace3bd10" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/research.html" afterPath="$PROJECT_DIR$/research.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/analytics.html" afterPath="$PROJECT_DIR$/analytics.html" />
     </list>
     <list id="007550db-bd04-47ff-89e2-1ffe3cc14d52" name="Rejected commit: Default" comment="" />
     <ignored path="foundation.iws" />
@@ -23,48 +23,7 @@
     <favorites_list name="foundation" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="learning.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learning.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.083333">
-              <caret line="84" column="18" selection-start-line="73" selection-start-column="12" selection-end-line="84" selection-end-column="18" />
-              <folding>
-                <element signature="n#style#0;n#a#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#a#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#span#0;n#a#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#a#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#span#0;n#a#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="customer.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/customer.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-14.694445">
-              <caret line="90" column="22" selection-start-line="79" selection-start-column="12" selection-end-line="90" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="research.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/research.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.64457834">
-              <caret line="89" column="54" selection-start-line="0" selection-start-column="0" selection-end-line="176" selection-end-column="0" />
-              <folding>
-                <element signature="n#style#0;n#a#0;n#div#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#a#0;n#div#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -103,10 +62,10 @@
         <option value="$PROJECT_DIR$/home.html" />
         <option value="$PROJECT_DIR$/bookshelf.html" />
         <option value="$PROJECT_DIR$/skills_tools.html" />
-        <option value="$PROJECT_DIR$/analytics.html" />
         <option value="$PROJECT_DIR$/learning.html" />
         <option value="$PROJECT_DIR$/customer.html" />
         <option value="$PROJECT_DIR$/research.html" />
+        <option value="$PROJECT_DIR$/analytics.html" />
       </list>
     </option>
   </component>
@@ -197,10 +156,7 @@
       <recent name="C:\foundation\assets\img" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.research.html">
-    <configuration default="false" name="bookshelf.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/foundation/bookshelf.html">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.analytics.html">
     <configuration default="false" name="learning.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/foundation/learning.html">
       <method />
     </configuration>
@@ -211,6 +167,9 @@
       <method />
     </configuration>
     <configuration default="false" name="research.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/foundation/research.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="analytics.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/foundation/analytics.html">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -252,19 +211,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.bookshelf.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.learning.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.home.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.customer.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.research.html" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.learning.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.home.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.customer.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.research.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.analytics.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.research.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.customer.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.learning.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.home.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.bookshelf.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.analytics.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.research.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.customer.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.learning.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.home.html" />
       </list>
     </recent_temporary>
   </component>
@@ -290,9 +249,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1591" y="-9" width="1618" height="870" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329806" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -685,14 +644,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/analytics.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="65" column="8" selection-start-line="0" selection-start-column="0" selection-end-line="161" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/skills_tools.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -717,9 +668,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/research.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.638889">
+          <caret line="90" column="22" selection-start-line="83" selection-start-column="16" selection-end-line="90" selection-end-column="22" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#a#0;n#div#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analytics.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.121987954">
+          <caret line="67" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="170" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.79668677">
+          <caret line="90" column="22" selection-start-line="79" selection-start-column="12" selection-end-line="90" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/learning.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.083333">
+        <state vertical-scroll-proportion="0.70933735">
           <caret line="84" column="18" selection-start-line="73" selection-start-column="12" selection-end-line="84" selection-end-column="18" />
           <folding>
             <element signature="n#style#0;n#a#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -728,25 +706,6 @@
             <element signature="n#style#0;n#a#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#a#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#span#0;n#a#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/customer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.694445">
-          <caret line="90" column="22" selection-start-line="79" selection-start-column="12" selection-end-line="90" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/research.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.64457834">
-          <caret line="89" column="54" selection-start-line="0" selection-start-column="0" selection-end-line="176" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#div#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#a#0;n#div#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
