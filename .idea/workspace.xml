@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="948967ec-8525-4bc2-ae41-5a6bace3bd10" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/analytics.html" afterPath="$PROJECT_DIR$/analytics.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/customer.html" afterPath="$PROJECT_DIR$/customer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home.html" afterPath="$PROJECT_DIR$/home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skills_tools.html" afterPath="$PROJECT_DIR$/skills_tools.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning.html" afterPath="$PROJECT_DIR$/learning.html" />
     </list>
     <list id="007550db-bd04-47ff-89e2-1ffe3cc14d52" name="Rejected commit: Default" comment="" />
     <ignored path="foundation.iws" />
@@ -28,21 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="analytics.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/analytics.html">
+      <file leaf-file-name="learning.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/learning.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.4444447">
-              <caret line="74" column="16" selection-start-line="74" selection-start-column="16" selection-end-line="74" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="customer.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/customer.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.24397591">
-              <caret line="76" column="36" selection-start-line="76" selection-start-column="36" selection-end-line="76" selection-end-column="36" />
+            <state vertical-scroll-proportion="0.0813253">
+              <caret line="72" column="27" selection-start-line="72" selection-start-column="27" selection-end-line="72" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -85,7 +71,6 @@
         <option value="$PROJECT_DIR$/teaching.html" />
         <option value="$PROJECT_DIR$/css/container.css" />
         <option value="$PROJECT_DIR$/library.html" />
-        <option value="$PROJECT_DIR$/learning.html" />
         <option value="$PROJECT_DIR$/research.html" />
         <option value="$PROJECT_DIR$/bookshelf.html" />
         <option value="$PROJECT_DIR$/captcha_test.html" />
@@ -93,6 +78,7 @@
         <option value="$PROJECT_DIR$/skills_tools.html" />
         <option value="$PROJECT_DIR$/analytics.html" />
         <option value="$PROJECT_DIR$/customer.html" />
+        <option value="$PROJECT_DIR$/learning.html" />
       </list>
     </option>
   </component>
@@ -183,11 +169,8 @@
       <recent name="C:\foundation\assets\img" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.customer.html">
+  <component name="RunManager" selected="JavaScript Debug.learning.html">
     <configuration default="false" name="analytics.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/foundation/analytics.html">
-      <method />
-    </configuration>
-    <configuration default="false" name="bookshelf.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/foundation/bookshelf.html">
       <method />
     </configuration>
     <configuration default="false" name="skills_tools.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/foundation/skills_tools.html">
@@ -197,6 +180,9 @@
       <method />
     </configuration>
     <configuration default="false" name="customer.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/foundation/customer.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="learning.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/foundation/learning.html">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -239,18 +225,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.analytics.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.bookshelf.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.skills_tools.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.home.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.customer.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.skills_tools.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.home.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.customer.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.learning.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.customer.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.analytics.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.skills_tools.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.home.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.bookshelf.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.learning.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.customer.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.analytics.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.skills_tools.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.home.html" />
       </list>
     </recent_temporary>
   </component>
@@ -662,13 +648,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learning.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="71" column="36" selection-start-line="71" selection-start-column="36" selection-end-line="71" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/skills_tools.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.87650603">
@@ -700,18 +679,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/customer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24397591">
+          <caret line="76" column="36" selection-start-line="76" selection-start-column="36" selection-end-line="76" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/analytics.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.4444447">
+        <state vertical-scroll-proportion="0.2951807">
           <caret line="74" column="16" selection-start-line="74" selection-start-column="16" selection-end-line="74" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/customer.html">
+    <entry file="file://$PROJECT_DIR$/learning.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24397591">
-          <caret line="76" column="36" selection-start-line="76" selection-start-column="36" selection-end-line="76" selection-end-column="36" />
+        <state vertical-scroll-proportion="0.0813253">
+          <caret line="72" column="27" selection-start-line="72" selection-start-column="27" selection-end-line="72" selection-end-column="27" />
           <folding />
         </state>
       </provider>
