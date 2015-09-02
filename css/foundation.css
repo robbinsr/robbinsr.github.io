@@ -41,7 +41,7 @@ meta.foundation-data-attribute-namespace {
     font-family: false; }
 
 html, body {
-    background-image: image('2b.jpg');
+    background-image: image('../img/splash_background.jpg');
 height: 100%; }
 
 html {
@@ -60,7 +60,7 @@ body {
     font-size: 100%; }
 
 body {
-    #background-image: image('2b.jpg');
+    #background-image: image('../img/splash_background.jpg');
     background: #ffffff;
     background-position: 0px -150rem;
     background-height: 100%;

@@ -2,12 +2,526 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="948967ec-8525-4bc2-ae41-5a6bace3bd10" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/analytics.html" afterPath="$PROJECT_DIR$/analytics.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bookshelf.html" afterPath="$PROJECT_DIR$/bookshelf.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/customer.html" afterPath="$PROJECT_DIR$/customer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning.html" afterPath="$PROJECT_DIR$/learning.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/research.html" afterPath="$PROJECT_DIR$/research.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skills_tools.html" afterPath="$PROJECT_DIR$/skills_tools.html" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\2b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\3dicc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\848.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\No-of-Words-Google.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\RoadToDataScientist1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\RoadToDataScientist1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\RoadToDataScientist1.psd" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\RoadToDataScientist1a.pdf" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\RoadToDataScientist1a.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\RoadToDataScientist2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\RoadToDataScientist2.psd" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\RoadToDataScientist3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\a.ai" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\a.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\aah12736" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\amp_lab as Smart Object-1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\amp_lab.psd" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\amp_lab_berkeley.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\analytics_old.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\b.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\b.psd" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\bds_20141120195501_RoadToDataScientist1-1024x831.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\berkeley.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\berkeley.psd" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\c.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\c.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\c.psd" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\coastal.carolina.robbins.cover.030712.b.doc" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\code_school.psd" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\collaborative_filtering_files\MathJax.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\collaborative_filtering_files\jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\collaborative_filtering_files\require.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\css\2b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\css\layouts\iceberg.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\d.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\data_science_roadmap_f060315.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\data_source.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\data_stores.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\dss.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\e.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\free-sight-word-game-dolch.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\front_end_formations.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\front_end_foundations.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\future.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\ge.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\heroku-logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\how-many-words-are-there-in-the-english-language_50291542577ab.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\humans.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\humptydumpty.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\images (1).jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\images.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\img\common\file-icons.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\is.self.assessment.040208.pdf" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\its.program.goals.learning.outcomes.assessment.methods.041808.pdf" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\javascript_roadtrip_1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\jh2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\jh3.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\johns_hopkins.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\js\vendor\fastclick.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\js\vendor\jquery.cookie.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\js\vendor\placeholder.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\kruscke_2010.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\mongodb.pdf" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\name.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\next_phrase_table.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\old.technologies.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\other.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\programming.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\researching.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\resume.pdf" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\resume.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\resume_white.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\resume_word.docx" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\roadmap.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\robbins.cv.references.030712.doc" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\robbins.evals.pdf" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\robbins.resume.docx" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\robbins.resume.pdf" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\robots.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\rpi.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\sobell_2015.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\splash" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\teaching.030712.pdf" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\teleplace.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\test.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\wasserman_2000.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\words.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\~$sume.pdf.docx" afterPath="" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\Adobe_PDF_file_icon_24x24.png" afterPath="$PROJECT_DIR$/img/pdf.png" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\RobbinsPaper.pdf" afterPath="$PROJECT_DIR$/assets/papers/RobbinsPaper.pdf" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\acm.jpg" afterPath="$PROJECT_DIR$/img/organizations/acm.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\ais.jpg" afterPath="$PROJECT_DIR$/img/organizations/ais.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\amp_lab.png" afterPath="$PROJECT_DIR$/img/schools/amp_lab.png" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\analytics.html" afterPath="$PROJECT_DIR$/html/analytics.html" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\aws.png" afterPath="$PROJECT_DIR$/img/companies/aws.png" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\baayen_2008.jpg" afterPath="$PROJECT_DIR$/img/books/baayen_2008.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\bang_jenson_gutin_2000.jpg" afterPath="$PROJECT_DIR$/img/books/bang_jenson_gutin_2000.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\beazley_jones_2013.jpg" afterPath="$PROJECT_DIR$/img/books/beazley_jones_2013.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\berkeley.png" afterPath="$PROJECT_DIR$/img/schools/berkeley.png" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\bishop_2006.jpg" afterPath="$PROJECT_DIR$/img/books/bishop_2006.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\bookshelf.html" afterPath="$PROJECT_DIR$/html/bookshelf.html" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\bratman_1987.jpg" afterPath="$PROJECT_DIR$/img/books/bratman_1987.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\braude_2004.jpg" afterPath="$PROJECT_DIR$/img/books/braude_2004.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\brewka_1996.jpg" afterPath="$PROJECT_DIR$/img/books/brewka_1996.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\brittain_darwin_2008.jpg" afterPath="$PROJECT_DIR$/img/books/brittain_darwin_2008.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\bruegge_dutoit_2004.jpg" afterPath="$PROJECT_DIR$/img/books/bruegge_dutoit_2004.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\carley_2014.jpg" afterPath="$PROJECT_DIR$/img/books/carley_2014.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\casebuilder.pdf" afterPath="$PROJECT_DIR$/assets/papers/casebuilder.pdf" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\cassandra.jpg" afterPath="$PROJECT_DIR$/img/companies/cassandra.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\clarifying.pdf" afterPath="$PROJECT_DIR$/assets/papers/clarifying.pdf" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\clemen_1996.jpg" afterPath="$PROJECT_DIR$/img/books/clemen_1996.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\code_school.png" afterPath="$PROJECT_DIR$/img/schools/code_school.png" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\collaborative_filtering.html" afterPath="$PROJECT_DIR$/assets/code/collaborative_filtering.html" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\corporate_host_testimonial_1.pdf" afterPath="$PROJECT_DIR$/assets/testimonials/corporate_host_testimonial_1.pdf" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\corporate_host_testimonial_2.pdf" afterPath="$PROJECT_DIR$/assets/testimonials/corporate_host_testimonial_2.pdf" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\coursera.jpeg" afterPath="$PROJECT_DIR$/img/schools/coursera.jpeg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\crawley_2007.jpg" afterPath="$PROJECT_DIR$/img/books/crawley_2007.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\css\layouts\2b.jpg" afterPath="$PROJECT_DIR$/img/splash_background.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\css\layouts\marketing-old-ie.css" afterPath="$PROJECT_DIR$/css/marketing-old-ie.css" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\css\layouts\marketing.css" afterPath="$PROJECT_DIR$/css/marketing.css" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\customer.html" afterPath="$PROJECT_DIR$/html/customer.html" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\databricks.jpg" afterPath="$PROJECT_DIR$/img/companies/databricks.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\datastax.jpg" afterPath="$PROJECT_DIR$/img/companies/datastax.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\davidson_sternberg_2003.jpg" afterPath="$PROJECT_DIR$/img/books/davidson_sternberg_2003.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\decision.support.pdf" afterPath="$PROJECT_DIR$/assets/papers/decision.support.pdf" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\designing.pdf" afterPath="$PROJECT_DIR$/assets/papers/designing.pdf" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\dimension_reduction.html" afterPath="$PROJECT_DIR$/assets/code/dimension_reduction.html" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\dsigo.pdf" afterPath="$PROJECT_DIR$/assets/papers/dsigo.pdf" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\eclipse.jpg" afterPath="$PROJECT_DIR$/img/open_source_projects/eclipse.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\edx.png" afterPath="$PROJECT_DIR$/img/schools/edx.png" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\elsevier.jpg" afterPath="$PROJECT_DIR$/img/organizations/elsevier.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\evans_flanagan_2015.jpg" afterPath="$PROJECT_DIR$/img/books/evans_flanagan_2015.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\feeney_heit_2007.jpg" afterPath="$PROJECT_DIR$/img/books/feeney_heit_2007.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\fleischmann_robbins_wallace.pdf" afterPath="$PROJECT_DIR$/assets/papers/fleischmann_robbins_wallace.pdf" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\ford_et_al_1995.jpg" afterPath="$PROJECT_DIR$/img/books/ford_et_al_1995.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\.fontcustom-data" afterPath="$PROJECT_DIR$/img/foundation-icons/.fontcustom-data" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\foundation-icons.css" afterPath="$PROJECT_DIR$/img/foundation-icons/foundation-icons.css" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\foundation-icons.eot" afterPath="$PROJECT_DIR$/img/foundation-icons/foundation-icons.eot" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\foundation-icons.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/foundation-icons.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\foundation-icons.ttf" afterPath="$PROJECT_DIR$/img/foundation-icons/foundation-icons.ttf" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\foundation-icons.woff" afterPath="$PROJECT_DIR$/img/foundation-icons/foundation-icons.woff" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\preview.html" afterPath="$PROJECT_DIR$/img/foundation-icons/preview.html" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-address-book.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-address-book.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-alert.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-alert.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-align-center.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-align-center.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-align-justify.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-align-justify.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-align-left.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-align-left.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-align-right.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-align-right.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-anchor.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-anchor.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-annotate.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-annotate.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-archive.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-archive.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-arrow-down.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-arrow-down.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-arrow-left.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-arrow-left.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-arrow-right.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-arrow-right.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-arrow-up.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-arrow-up.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-arrows-compress.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-arrows-compress.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-arrows-expand.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-arrows-expand.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-arrows-in.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-arrows-in.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-arrows-out.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-arrows-out.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-asl.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-asl.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-asterisk.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-asterisk.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-at-sign.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-at-sign.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-background-color.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-background-color.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-battery-empty.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-battery-empty.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-battery-full.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-battery-full.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-battery-half.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-battery-half.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-bitcoin-circle.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-bitcoin-circle.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-bitcoin.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-bitcoin.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-blind.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-blind.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-bluetooth.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-bluetooth.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-bold.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-bold.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-book-bookmark.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-book-bookmark.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-book.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-book.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-bookmark.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-bookmark.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-braille.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-braille.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-burst-new.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-burst-new.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-burst-sale.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-burst-sale.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-burst.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-burst.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-calendar.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-calendar.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-camera.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-camera.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-check.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-check.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-checkbox.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-checkbox.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-clipboard-notes.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-clipboard-notes.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-clipboard-pencil.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-clipboard-pencil.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-clipboard.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-clipboard.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-clock.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-clock.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-closed-caption.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-closed-caption.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-cloud.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-cloud.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-comment-minus.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-comment-minus.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-comment-quotes.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-comment-quotes.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-comment-video.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-comment-video.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-comment.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-comment.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-comments.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-comments.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-compass.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-compass.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-contrast.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-contrast.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-credit-card.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-credit-card.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-crop.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-crop.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-crown.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-crown.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-css3.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-css3.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-database.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-database.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-die-five.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-die-five.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-die-four.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-die-four.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-die-one.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-die-one.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-die-six.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-die-six.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-die-three.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-die-three.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-die-two.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-die-two.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-dislike.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-dislike.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-dollar-bill.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-dollar-bill.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-dollar.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-dollar.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-download.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-download.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-eject.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-eject.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-elevator.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-elevator.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-euro.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-euro.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-eye.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-eye.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-fast-forward.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-fast-forward.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-female-symbol.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-female-symbol.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-female.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-female.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-filter.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-filter.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-first-aid.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-first-aid.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-flag.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-flag.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-folder-add.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-folder-add.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-folder-lock.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-folder-lock.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-folder.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-folder.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-foot.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-foot.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-foundation.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-foundation.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-graph-bar.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-graph-bar.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-graph-horizontal.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-graph-horizontal.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-graph-pie.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-graph-pie.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-graph-trend.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-graph-trend.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-guide-dog.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-guide-dog.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-hearing-aid.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-hearing-aid.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-heart.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-heart.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-home.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-home.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-html5.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-html5.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-indent-less.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-indent-less.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-indent-more.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-indent-more.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-info.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-info.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-italic.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-italic.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-key.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-key.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-laptop.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-laptop.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-layout.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-layout.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-lightbulb.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-lightbulb.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-like.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-like.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-link.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-link.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-list-bullet.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-list-bullet.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-list-number.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-list-number.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-list-thumbnails.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-list-thumbnails.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-list.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-list.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-lock.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-lock.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-loop.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-loop.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-magnifying-glass.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-magnifying-glass.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-mail.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-mail.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-male-female.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-male-female.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-male-symbol.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-male-symbol.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-male.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-male.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-map.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-map.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-marker.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-marker.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-megaphone.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-megaphone.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-microphone.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-microphone.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-minus-circle.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-minus-circle.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-minus.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-minus.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-mobile-signal.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-mobile-signal.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-mobile.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-mobile.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-monitor.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-monitor.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-mountains.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-mountains.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-music.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-music.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-next.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-next.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-no-dogs.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-no-dogs.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-no-smoking.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-no-smoking.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-page-add.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-page-add.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-page-copy.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-page-copy.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-page-csv.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-page-csv.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-page-delete.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-page-delete.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-page-doc.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-page-doc.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-page-edit.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-page-edit.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-page-export-csv.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-page-export-csv.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-page-export-doc.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-page-export-doc.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-page-export-pdf.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-page-export-pdf.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-page-export.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-page-export.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-page-filled.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-page-filled.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-page-multiple.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-page-multiple.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-page-pdf.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-page-pdf.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-page-remove.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-page-remove.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-page-search.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-page-search.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-page.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-page.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-paint-bucket.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-paint-bucket.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-paperclip.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-paperclip.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-pause.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-pause.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-paw.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-paw.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-paypal.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-paypal.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-pencil.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-pencil.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-photo.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-photo.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-play-circle.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-play-circle.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-play-video.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-play-video.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-play.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-play.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-plus.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-plus.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-pound.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-pound.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-power.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-power.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-previous.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-previous.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-price-tag.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-price-tag.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-pricetag-multiple.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-pricetag-multiple.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-print.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-print.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-prohibited.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-prohibited.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-projection-screen.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-projection-screen.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-puzzle.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-puzzle.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-quote.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-quote.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-record.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-record.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-refresh.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-refresh.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-results-demographics.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-results-demographics.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-results.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-results.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-rewind-ten.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-rewind-ten.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-rewind.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-rewind.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-rss.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-rss.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-safety-cone.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-safety-cone.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-save.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-save.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-share.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-share.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-sheriff-badge.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-sheriff-badge.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-shield.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-shield.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-shopping-bag.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-shopping-bag.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-shopping-cart.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-shopping-cart.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-shuffle.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-shuffle.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-skull.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-skull.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-500px.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-500px.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-adobe.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-adobe.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-amazon.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-amazon.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-android.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-android.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-apple.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-apple.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-behance.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-behance.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-bing.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-bing.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-blogger.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-blogger.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-delicious.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-delicious.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-designer-news.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-designer-news.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-deviant-art.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-deviant-art.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-digg.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-digg.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-dribbble.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-dribbble.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-drive.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-drive.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-dropbox.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-dropbox.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-evernote.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-evernote.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-facebook.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-facebook.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-flickr.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-flickr.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-forrst.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-forrst.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-foursquare.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-foursquare.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-game-center.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-game-center.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-github.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-github.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-google-plus.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-google-plus.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-hacker-news.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-hacker-news.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-hi5.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-hi5.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-instagram.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-instagram.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-joomla.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-joomla.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-lastfm.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-lastfm.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-linkedin.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-linkedin.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-medium.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-medium.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-myspace.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-myspace.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-orkut.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-orkut.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-path.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-path.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-picasa.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-picasa.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-pinterest.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-pinterest.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-rdio.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-rdio.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-reddit.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-reddit.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-skillshare.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-skillshare.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-skype.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-skype.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-smashing-mag.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-smashing-mag.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-snapchat.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-snapchat.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-spotify.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-spotify.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-squidoo.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-squidoo.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-stack-overflow.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-stack-overflow.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-steam.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-steam.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-stumbleupon.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-stumbleupon.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-treehouse.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-treehouse.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-tumblr.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-tumblr.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-twitter.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-twitter.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-vimeo.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-vimeo.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-windows.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-windows.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-xbox.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-xbox.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-yahoo.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-yahoo.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-yelp.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-yelp.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-youtube.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-youtube.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-zerply.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-zerply.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-social-zurb.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-social-zurb.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-sound.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-sound.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-star.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-star.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-stop.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-stop.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-strikethrough.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-strikethrough.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-subscript.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-subscript.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-superscript.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-superscript.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-tablet-landscape.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-tablet-landscape.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-tablet-portrait.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-tablet-portrait.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-target-two.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-target-two.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-target.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-target.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-telephone-accessible.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-telephone-accessible.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-telephone.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-telephone.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-text-color.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-text-color.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-thumbnails.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-thumbnails.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-ticket.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-ticket.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-torso-business.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-torso-business.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-torso-female.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-torso-female.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-torso.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-torso.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-torsos-all-female.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-torsos-all-female.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-torsos-all.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-torsos-all.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-torsos-female-male.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-torsos-female-male.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-torsos-male-female.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-torsos-male-female.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-torsos.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-torsos.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-trash.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-trash.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-trees.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-trees.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-trophy.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-trophy.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-underline.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-underline.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-universal-access.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-universal-access.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-unlink.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-unlink.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-unlock.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-unlock.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-upload-cloud.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-upload-cloud.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-upload.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-upload.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-usb.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-usb.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-video.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-video.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-volume-none.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-volume-none.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-volume-strike.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-volume-strike.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-volume.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-volume.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-web.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-web.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-wheelchair.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-wheelchair.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-widget.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-widget.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-wrench.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-wrench.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-x-circle.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-x-circle.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-x.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-x.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-yen.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-yen.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-zoom-in.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-zoom-in.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\foundation-icons\svgs\fi-zoom-out.svg" afterPath="$PROJECT_DIR$/img/foundation-icons/svgs/fi-zoom-out.svg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\fox_2006.jpg" afterPath="$PROJECT_DIR$/img/books/fox_2006.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\gass_harris_2000.jpg" afterPath="$PROJECT_DIR$/img/books/gass_harris_2000.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\ge.jpg" afterPath="$PROJECT_DIR$/img/companies/ge.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\gilbert_2008.jpg" afterPath="$PROJECT_DIR$/img/books/gilbert_2008.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\goddard_2011.jpg" afterPath="$PROJECT_DIR$/img/books/goddard_2011.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\golden_et_al_1989.jpg" afterPath="$PROJECT_DIR$/img/books/golden_et_al_1989.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\gujarati_2003.jpg" afterPath="$PROJECT_DIR$/img/books/gujarati_2003.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\hastie_et_al_2009.jpg" afterPath="$PROJECT_DIR$/img/books/hastie_et_al_2009.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\hausser_2006.jpg" afterPath="$PROJECT_DIR$/img/books/hausser_2006.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\hayter_2002.jpg" afterPath="$PROJECT_DIR$/img/books/hayter_2002.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\hec_montreal.png" afterPath="$PROJECT_DIR$/img/books/hec_montreal.png" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\heroku.jpg" afterPath="$PROJECT_DIR$/img/companies/heroku.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\holyoak_morrison_2005.jpg" afterPath="$PROJECT_DIR$/img/books/holyoak_morrison_2005.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\holzner_2004.jpg" afterPath="$PROJECT_DIR$/img/books/holzner_2004.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\home.html" afterPath="$PROJECT_DIR$/html/home.html" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\ibm.jpg" afterPath="$PROJECT_DIR$/img/companies/ibm.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\ieee.jpg" afterPath="$PROJECT_DIR$/img/organizations/ieee.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\information.ethics.pdf" afterPath="$PROJECT_DIR$/assets/papers/information.ethics.pdf" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\jena.png" afterPath="$PROJECT_DIR$/img/open_source_projects/jena.png" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\johns_hopkins.png" afterPath="$PROJECT_DIR$/img/schools/johns_hopkins.png" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\jones_et_al_2006.jpg" afterPath="$PROJECT_DIR$/img/books/jones_et_al_2006.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\js\foundation.min.js" afterPath="$PROJECT_DIR$/js/foundation/foundation.min.js" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\js\vendor\jquery.js" afterPath="$PROJECT_DIR$/js/jquery.js" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\js\vendor\modernizr.js" afterPath="$PROJECT_DIR$/js/modernizr.js" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\jurafsky_martin_2008.jpg" afterPath="$PROJECT_DIR$/img/books/jurafsky_martin_2008.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\kolaczyk_csardi_2014.jpg" afterPath="$PROJECT_DIR$/img/books/kolaczyk_csardi_2014.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\koller_friedman_2009.jpg" afterPath="$PROJECT_DIR$/img/books/koller_friedman_2009.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\kruschke_2010.jpg" afterPath="$PROJECT_DIR$/img/books/kruschke_2010.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\learning.html" afterPath="$PROJECT_DIR$/html/learning.html" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\leighton_sternberg_2004.jpg" afterPath="$PROJECT_DIR$/img/books/leighton_sternberg_2004.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\mapinfo.jpg" afterPath="$PROJECT_DIR$/img/companies/mapinfo.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\mckinney_2013.jpg" afterPath="$PROJECT_DIR$/img/books/mckinney_2013.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\michalewicz_fogel_2000.jpg" afterPath="$PROJECT_DIR$/img/books/michalewicz_fogel_2000.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\mitchell_2015.jpg" afterPath="$PROJECT_DIR$/img/books/mitchell_2015.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\mongodb.png" afterPath="$PROJECT_DIR$/img/companies/mongodb.png" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\munzert_et_al_2015.jpg" afterPath="$PROJECT_DIR$/img/books/munzert_et_al_2015.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\neo4j.png" afterPath="$PROJECT_DIR$/img/companies/neo4j.png" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\nsf.jpg" afterPath="$PROJECT_DIR$/img/organizations/nsf.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\nsf_propsal_2007.pdf" afterPath="$PROJECT_DIR$/assets/papers/nsf_propsal_2007.pdf" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\nxp.jpg" afterPath="$PROJECT_DIR$/img/companies/nxp.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\one_page_resume.pdf" afterPath="$PROJECT_DIR$/assets/resume.pdf" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\oracle.jpg" afterPath="$PROJECT_DIR$/img/companies/oracle.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\philips.jpg" afterPath="$PROJECT_DIR$/img/companies/philips.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\pindyck_rubinfeld_1997.jpg" afterPath="$PROJECT_DIR$/img/books/pindyck_rubinfeld_1997.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\pitt.evals.pdf" afterPath="$PROJECT_DIR$/assets/evals/pitt.evals.pdf" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\pitt.jpg" afterPath="$PROJECT_DIR$/img/schools/pitt.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\pluralsight.png" afterPath="$PROJECT_DIR$/img/schools/pluralsight.png" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\polya_2009.jpg" afterPath="$PROJECT_DIR$/img/books/polya_2009.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\powers_xie_2000.jpg" afterPath="$PROJECT_DIR$/img/books/powers_xie_2000.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\prietula_et_al_1998.jpg" afterPath="$PROJECT_DIR$/img/books/prietula_et_al_1998.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\principal_components.html" afterPath="$PROJECT_DIR$/assets/code/principal_components.html" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\pycharm.jpg" afterPath="$PROJECT_DIR$/img/companies/pycharm.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\python.jpg" afterPath="$PROJECT_DIR$/img/open_source_projects/python.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\r.jpg" afterPath="$PROJECT_DIR$/img/open_source_projects/r.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\rapidminer.png" afterPath="$PROJECT_DIR$/img/companies/rapidminer.png" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\research.html" afterPath="$PROJECT_DIR$/html/research.html" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\rpi.png" afterPath="$PROJECT_DIR$/img/schools/rpi.png" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\rstudio.jpg" afterPath="$PROJECT_DIR$/img/companies/rstudio.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\russell_norvig_1995.jpg" afterPath="$PROJECT_DIR$/img/books/russell_norvig_1995.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\ryza_et_al_2015.jpg" afterPath="$PROJECT_DIR$/img/books/ryza_et_al_2015.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\saaty_1980.jpg" afterPath="$PROJECT_DIR$/img/books/saaty_1980.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\sap.png" afterPath="$PROJECT_DIR$/img/companies/sap.png" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\seigel_castellan_1988.jpg" afterPath="$PROJECT_DIR$/img/books/seigel_castellan_1988.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\selecting.a.virtual.world.pdf" afterPath="$PROJECT_DIR$/assets/papers/selecting.a.virtual.world.pdf" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\sheldon_moes_2005.jpg" afterPath="$PROJECT_DIR$/img/books/sheldon_moes_2005.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\siegel_castellan_1988.jpg" afterPath="$PROJECT_DIR$/img/books/siegel_castellan_1988.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\skills_tools.html" afterPath="$PROJECT_DIR$/html/skills_tools.html" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\sobell_2009.jpg" afterPath="$PROJECT_DIR$/img/books/sobell_2009.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\sommerville_2006.jpg" afterPath="$PROJECT_DIR$/img/books/sommerville_2006.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\sonatype_2008.jpg" afterPath="$PROJECT_DIR$/img/books/sonatype_2008.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\sowa_1999.jpg" afterPath="$PROJECT_DIR$/img/books/sowa_1999.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\spark.png" afterPath="$PROJECT_DIR$/img/open_source_projects/spark.png" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\sparql.png" afterPath="$PROJECT_DIR$/img/open_source_projects/sparql.png" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\student_testimonial_1.pdf" afterPath="$PROJECT_DIR$/assets/testimonials/student_testimonial_1.pdf" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\student_testimonial_2.pdf" afterPath="$PROJECT_DIR$/assets/testimonials/student_testimonial_2.pdf" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\successful.nsf.2007.proposal.pdf" afterPath="$PROJECT_DIR$/assets/papers/successful.nsf.2007.proposal.pdf" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\supporting.pdf" afterPath="$PROJECT_DIR$/assets/papers/supporting.pdf" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\susquehanna.evals.pdf" afterPath="$PROJECT_DIR$/assets/evals/susquehanna.evals.pdf" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\teaching_.pdf" afterPath="$PROJECT_DIR$/assets/papers/teaching_.pdf" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\top_quadrant.jpg" afterPath="$PROJECT_DIR$/img/companies/top_quadrant.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\uml.jpg" afterPath="$PROJECT_DIR$/img/open_source_projects/uml.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\virtual.teaching.pdf" afterPath="$PROJECT_DIR$/assets/papers/virtual.teaching.pdf" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\wasserman_1994.jpg" afterPath="$PROJECT_DIR$/img/books/wasserman_1994.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\wasserman_2012.jpg" afterPath="$PROJECT_DIR$/img/books/wasserman_2012.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\wood_2006.jpg" afterPath="$PROJECT_DIR$/img/books/wood_2006.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\workshop.pdf" afterPath="$PROJECT_DIR$/assets/papers/workshop.pdf" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\yau_2011.jpg" afterPath="$PROJECT_DIR$/img/books/yau_2011.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\yu_2011.jpg" afterPath="$PROJECT_DIR$/img/books/yu_2011.jpg" />
+      <change type="MOVED" beforePath="C:\robbinsr.github.io\zaki_2014.jpg" afterPath="$PROJECT_DIR$/img/books/zaki_2014.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/foundation.css" afterPath="$PROJECT_DIR$/css/foundation.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="007550db-bd04-47ff-89e2-1ffe3cc14d52" name="Rejected commit: Default" comment="" />
     <ignored path="foundation.iws" />
@@ -29,81 +543,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="learning.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learning.html">
+      <file leaf-file-name="learning.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/html/learning.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.9444447">
-              <caret line="221" column="102" selection-start-line="0" selection-start-column="0" selection-end-line="243" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bookshelf.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bookshelf.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.833333">
-              <caret line="210" column="108" selection-start-line="0" selection-start-column="0" selection-end-line="245" selection-end-column="0" />
-              <folding>
-                <marker date="1441210560170" expanded="true" signature="684:724" placeholder="{...}" />
-                <marker date="1441210560170" expanded="true" signature="749:915" placeholder="{...}" />
-                <marker date="1441210560170" expanded="true" signature="948:1024" placeholder="{...}" />
-                <marker date="1441210560170" expanded="true" signature="1055:1099" placeholder="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="skills_tools.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/skills_tools.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.25">
-              <caret line="511" column="100" selection-start-line="0" selection-start-column="0" selection-end-line="548" selection-end-column="0" />
-              <folding>
-                <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#ul#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#ul#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#1;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#ul#0;n#div#3;n#div#0;n#div#1;n#div#0;n#div#1;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#ul#0;n#div#4;n#div#0;n#div#1;n#div#0;n#div#1;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#ul#0;n#div#10;n#div#0;n#div#1;n#div#0;n#div#1;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#ul#0;n#div#11;n#div#0;n#div#1;n#div#0;n#div#1;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#ul#0;n#div#12;n#div#0;n#div#1;n#div#0;n#div#1;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#ul#0;n#div#13;n#div#0;n#div#1;n#div#0;n#div#1;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#ul#0;n#div#14;n#div#0;n#div#1;n#div#0;n#div#1;n#html#0;n#!!top" expanded="true" />
-                <marker date="1441210600307" expanded="true" signature="674:711" placeholder="{...}" />
-                <marker date="1441210600307" expanded="true" signature="735:894" placeholder="{...}" />
-                <marker date="1441210600307" expanded="true" signature="926:998" placeholder="{...}" />
-                <marker date="1441210600307" expanded="true" signature="1028:1069" placeholder="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="analytics.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/analytics.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.416667">
-              <caret line="143" column="110" selection-start-line="0" selection-start-column="0" selection-end-line="171" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="research.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/research.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.638889">
-              <caret line="153" column="112" selection-start-line="0" selection-start-column="0" selection-end-line="177" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="customer.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/customer.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.21686748">
-              <caret line="130" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="152" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.29846153">
+              <caret line="112" column="105" selection-start-line="0" selection-start-column="0" selection-end-line="243" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -153,8 +597,13 @@
         <option value="$PROJECT_DIR$/bookshelf.html" />
         <option value="$PROJECT_DIR$/skills_tools.html" />
         <option value="$PROJECT_DIR$/analytics.html" />
-        <option value="$PROJECT_DIR$/research.html" />
         <option value="$PROJECT_DIR$/customer.html" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/research.html" />
+        <option value="$PROJECT_DIR$/code/collaborative_filtering.html" />
+        <option value="$PROJECT_DIR$/html/analytics.html" />
+        <option value="$PROJECT_DIR$/css/marketing.css" />
+        <option value="$PROJECT_DIR$/html/learning.html" />
       </list>
     </option>
   </component>
@@ -224,7 +673,21 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="foundation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="robbinsr.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -238,13 +701,14 @@
     <property name="recentsLimit" value="5" />
     <property name="FullScreen" value="false" />
     <property name="editorconfig.notification" value="Applied .editorconfig settings" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.Font" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -255,24 +719,27 @@
       <recent name="C:\robbinsr.github.io\stylesheets" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\foundation" />
-      <recent name="C:\foundation\assets\img" />
+      <recent name="C:\robbinsr.github.io\assets" />
+      <recent name="C:\robbinsr.github.io\img" />
+      <recent name="C:\robbinsr.github.io\js\foundation" />
+      <recent name="C:\robbinsr.github.io\js" />
+      <recent name="C:\robbinsr.github.io\img\companies" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.home.html">
-    <configuration default="false" name="analytics.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/foundation/analytics.html">
+  <component name="RunManager" selected="JavaScript Debug.learning.html">
+    <configuration default="false" name="programming.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/foundation/programming.html">
       <method />
     </configuration>
-    <configuration default="false" name="customer.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/foundation/customer.html">
+    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/foundation/index.html">
       <method />
     </configuration>
-    <configuration default="false" name="learning.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/foundation/learning.html">
+    <configuration default="false" name="home.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/foundation/html/home.html">
       <method />
     </configuration>
-    <configuration default="false" name="contact.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/foundation/contact.html">
+    <configuration default="false" name="customer.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/foundation/html/customer.html">
       <method />
     </configuration>
-    <configuration default="false" name="home.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/foundation/home.html">
+    <configuration default="false" name="learning.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/foundation/html/learning.html">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -314,19 +781,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.analytics.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.customer.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.learning.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.contact.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.home.html" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.programming.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.home.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.customer.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.learning.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.home.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.contact.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.learning.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.customer.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.analytics.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.learning.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.customer.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.home.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.programming.html" />
       </list>
     </recent_temporary>
   </component>
@@ -354,10 +821,11 @@
     <frame x="1591" y="-9" width="1618" height="870" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.145" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.009375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329806" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.01899593" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -371,7 +839,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.021201413" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -416,366 +883,303 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="148" column="21" selection-start-line="147" selection-start-column="47" selection-end-line="148" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/customer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="36" column="25" selection-start-line="0" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/research.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="36" column="25" selection-start-line="0" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/foundation.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6330" column="33" selection-start-line="6330" selection-start-column="33" selection-end-line="6330" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/normalize.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/github-light.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="98" column="12" selection-start-line="98" selection-start-column="12" selection-end-line="98" selection-end-column="102" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/analytics.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="126" column="12" selection-start-line="126" selection-start-column="12" selection-end-line="126" selection-end-column="102" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="148" column="21" selection-start-line="147" selection-start-column="47" selection-end-line="148" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/customer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="103" column="19" selection-start-line="103" selection-start-column="19" selection-end-line="103" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/research.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/foundation.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6330" column="33" selection-start-line="6330" selection-start-column="33" selection-end-line="6330" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/normalize.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/github-light.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/analytics.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="130" column="38" selection-start-line="130" selection-start-column="38" selection-end-line="130" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/layouts/marketing.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="292" column="4" selection-start-line="292" selection-start-column="4" selection-end-line="292" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/analytics.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/analytics.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="76" column="31" selection-start-line="0" selection-start-column="0" selection-end-line="148" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/analytics.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="76" column="31" selection-start-line="0" selection-start-column="0" selection-end-line="148" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/analytics.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="76" column="31" selection-start-line="0" selection-start-column="0" selection-end-line="148" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/normalize.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.734375">
-          <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/a.png">
+    <entry file="file://$PROJECT_DIR$/img/open_source_projects/jena.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/b.png">
+    <entry file="file://$PROJECT_DIR$/img/companies/top_quadrant.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/c.jpg">
+    <entry file="file://$PROJECT_DIR$/img/open_source_projects/sparql.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/b.psd">
+    <entry file="file://$PROJECT_DIR$/img/books/siegel_castellan_1988.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/c.psd">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/c.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/github-light.css">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2925532">
-          <caret line="98" column="12" selection-start-line="98" selection-start-column="2" selection-end-line="98" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/2b.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/layouts/marketing.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16539924">
-          <caret line="199" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="622" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31364563">
-          <caret line="94" column="47" selection-start-line="94" selection-start-column="43" selection-end-line="94" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31368822">
-          <caret line="141" column="14" selection-start-line="141" selection-start-column="4" selection-end-line="141" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2b.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.68373495">
-          <caret line="84" column="110" selection-start-line="84" selection-start-column="9" selection-end-line="84" selection-end-column="110" />
-          <folding>
-            <element signature="n#style#0;n#span#0;n#a#0;n#div#3;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/foundation.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3323263">
-          <caret line="2255" column="21" selection-start-line="2255" selection-start-column="18" selection-end-line="2255" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.5302115">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learning.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.9444447">
-          <caret line="221" column="102" selection-start-line="0" selection-start-column="0" selection-end-line="243" selection-end-column="0" />
-          <folding />
-        </state>
+      <provider editor-type-id="MultiMarkdownHtmlEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="MultiMarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bookshelf.html">
+    <entry file="file://$PROJECT_DIR$/html/research.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.833333">
-          <caret line="210" column="108" selection-start-line="0" selection-start-column="0" selection-end-line="245" selection-end-column="0" />
-          <folding>
-            <marker date="1441210560170" expanded="true" signature="684:724" placeholder="{...}" />
-            <marker date="1441210560170" expanded="true" signature="749:915" placeholder="{...}" />
-            <marker date="1441210560170" expanded="true" signature="948:1024" placeholder="{...}" />
-            <marker date="1441210560170" expanded="true" signature="1055:1099" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/skills_tools.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.25">
-          <caret line="511" column="100" selection-start-line="0" selection-start-column="0" selection-end-line="548" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#1;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#0;n#div#3;n#div#0;n#div#1;n#div#0;n#div#1;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#0;n#div#4;n#div#0;n#div#1;n#div#0;n#div#1;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#0;n#div#10;n#div#0;n#div#1;n#div#0;n#div#1;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#0;n#div#11;n#div#0;n#div#1;n#div#0;n#div#1;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#0;n#div#12;n#div#0;n#div#1;n#div#0;n#div#1;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#0;n#div#13;n#div#0;n#div#1;n#div#0;n#div#1;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#0;n#div#14;n#div#0;n#div#1;n#div#0;n#div#1;n#html#0;n#!!top" expanded="true" />
-            <marker date="1441210600307" expanded="true" signature="674:711" placeholder="{...}" />
-            <marker date="1441210600307" expanded="true" signature="735:894" placeholder="{...}" />
-            <marker date="1441210600307" expanded="true" signature="926:998" placeholder="{...}" />
-            <marker date="1441210600307" expanded="true" signature="1028:1069" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/analytics.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.416667">
-          <caret line="143" column="110" selection-start-line="0" selection-start-column="0" selection-end-line="171" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/research.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.638889">
+        <state vertical-scroll-proportion="0.0">
           <caret line="153" column="112" selection-start-line="0" selection-start-column="0" selection-end-line="177" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/customer.html">
+    <entry file="file://$PROJECT_DIR$/img/companies/ibm.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/books/ford_et_al_1995.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/books/leighton_sternberg_2004.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/params.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21686748">
-          <caret line="130" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="152" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/companies/philips.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/open_source_projects/python.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/companies/oracle.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/code/collaborative_filtering.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/code/principal_components.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/code/dimension_reduction.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/splash_background.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/marketing.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="459" column="32" selection-start-line="459" selection-start-column="32" selection-end-line="459" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/organizations/acm.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/schools/amp_lab.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/companies/aws.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/books/baayen_2008.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/books/bishop_2006.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/books/clemen_1996.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/books/gilbert_2008.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/books/pindyck_rubinfeld_1997.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/books/jones_et_al_2006.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/schools/code_school.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/companies/datastax.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/schools/edx.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/companies/ge.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/open_source_projects/eclipse.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/companies/mongodb.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/organizations/ieee.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/organizations/elsevier.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/schools/pitt.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/companies/neo4j.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/schools/rpi.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/open_source_projects/r.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/open_source_projects/uml.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/companies/nxp.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/foundation/foundation.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1433009962013" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1433009962013" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1433009962013" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1433009962013" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/foundation-icons/svgs/fi-x.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/bookshelf.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1441217432124" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1441217432124" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1441217432124" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1441217432124" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/analytics.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3123077">
+          <caret line="149" column="60" selection-start-line="149" selection-start-column="60" selection-end-line="149" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.50153846">
+          <caret line="92" column="29" selection-start-line="92" selection-start-column="29" selection-end-line="92" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/learning.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29846153">
+          <caret line="112" column="105" selection-start-line="0" selection-start-column="0" selection-end-line="243" selection-end-column="0" />
           <folding />
         </state>
       </provider>
