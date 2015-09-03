@@ -6,7 +6,7 @@ Files that are here include:
 2. css
 3. javascript
 4. images
-5. assets
+5. assets, such as code, testimonials, papers, etc.
 
 
 
