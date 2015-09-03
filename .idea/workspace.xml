@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="948967ec-8525-4bc2-ae41-5a6bace3bd10" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/bookshelf.html" afterPath="$PROJECT_DIR$/html/bookshelf.html" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\img\books\ai\fioreano_mattiussi_2008.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\robbinsr.github.io\img\books\ai\konar_1999.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/home.html" afterPath="$PROJECT_DIR$/html/home.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="007550db-bd04-47ff-89e2-1ffe3cc14d52" name="Rejected commit: Default" comment="" />
@@ -25,17 +27,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="bookshelf.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/html/bookshelf.html">
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/html/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7560241">
-              <caret line="226" column="51" selection-start-line="0" selection-start-column="0" selection-end-line="271" selection-end-column="0" />
-              <folding>
-                <marker date="1441236974842" expanded="true" signature="683:723" placeholder="{...}" />
-                <marker date="1441236974842" expanded="true" signature="748:914" placeholder="{...}" />
-                <marker date="1441236974842" expanded="true" signature="947:1023" placeholder="{...}" />
-                <marker date="1441236974842" expanded="true" signature="1054:1098" placeholder="{...}" />
-              </folding>
+            <state vertical-scroll-proportion="0.33734939">
+              <caret line="80" column="91" selection-start-line="80" selection-start-column="91" selection-end-line="80" selection-end-column="91" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -92,6 +89,7 @@
         <option value="$PROJECT_DIR$/html/learning.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/html/bookshelf.html" />
+        <option value="$PROJECT_DIR$/html/home.html" />
       </list>
     </option>
   </component>
@@ -131,8 +129,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -167,6 +163,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -200,7 +198,7 @@
       <recent name="C:\robbinsr.github.io\js" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.bookshelf.html">
+  <component name="RunManager" selected="JavaScript Debug.home.html">
     <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/foundation/index.html">
       <method />
     </configuration>
@@ -263,11 +261,11 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.bookshelf.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.learning.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.customer.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.home.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.home.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.bookshelf.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.learning.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.customer.html" />
       </list>
     </recent_temporary>
   </component>
@@ -386,10 +384,10 @@
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
-      <provider editor-type-id="MultiMarkdownPreviewEditor">
+      <provider editor-type-id="MultiMarkdownHtmlEditor">
         <state />
       </provider>
-      <provider editor-type-id="MultiMarkdownHtmlEditor">
+      <provider editor-type-id="MultiMarkdownPreviewEditor">
         <state />
       </provider>
     </entry>
@@ -631,20 +629,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6646154">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/bookshelf.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7560241">
-          <caret line="226" column="51" selection-start-line="0" selection-start-column="0" selection-end-line="271" selection-end-column="0" />
-          <folding>
-            <marker date="1441236974842" expanded="true" signature="683:723" placeholder="{...}" />
-            <marker date="1441236974842" expanded="true" signature="748:914" placeholder="{...}" />
-            <marker date="1441236974842" expanded="true" signature="947:1023" placeholder="{...}" />
-            <marker date="1441236974842" expanded="true" signature="1054:1098" placeholder="{...}" />
-          </folding>
+        <state vertical-scroll-proportion="0.26807228">
+          <caret line="214" column="26" selection-start-line="214" selection-start-column="26" selection-end-line="214" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33734939">
+          <caret line="80" column="91" selection-start-line="80" selection-start-column="91" selection-end-line="80" selection-end-column="91" />
+          <folding />
         </state>
       </provider>
     </entry>
