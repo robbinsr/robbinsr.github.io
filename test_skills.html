@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+    <meta charset="UTF-8">
+    <title>SKILLS</title>
+    <link rel="stylesheet" type="text/css" href="semantic/dist/semantic.css">
+    <script type="text/javascript" src="semantic/dist/semantic.min.js"></script>
+    <script src="js/jquery-1.11.3.min.js"></script>
+    <script src="js/jquery-ui.min.js"></script>
+    <script>
+    $(document).ready(function(){
+    $('.ui .item').on('click', function() {
+    $('.ui .item').removeClass('active');
+    $(this).addClass('active');
+    });
+    });
+    </script>
+</head>
+<body>
+<div class="ui secondary pointing menu">
+    <a class="active item">
+        <i class="home icon"></i>Home</a>
+    <a class="item">
+        <i class="mail icon"></i>Messages</a>
+    <a class="item">
+        <i class="user icon"></i>Friends</a>
+
+</div>
+</body>
+</html>
