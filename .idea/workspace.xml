@@ -21,20 +21,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="research.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/research.html">
+      <file leaf-file-name="skills.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/skills.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8915663">
-              <caret line="35" column="17" selection-start-line="0" selection-start-column="0" selection-end-line="194" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.4307229">
+              <caret line="86" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="517" selection-end-column="0" />
               <folding>
-                <element signature="n#a#0;n#div#1;n#!!top" expanded="false" />
-                <element signature="n#a#1;n#div#1;n#!!top" expanded="false" />
-                <element signature="n#a#2;n#div#1;n#!!top" expanded="false" />
-                <element signature="n#a#3;n#div#1;n#!!top" expanded="false" />
-                <element signature="n#a#4;n#div#1;n#!!top" expanded="false" />
-                <element signature="n#a#5;n#div#1;n#!!top" expanded="false" />
-                <element signature="n#a#6;n#div#1;n#!!top" expanded="false" />
-                <element signature="n#a#7;n#div#1;n#!!top" expanded="false" />
+                <element signature="n#script#5;n#head#0;n#!!top" expanded="false" />
+                <marker date="1442337802131" expanded="true" signature="1180:1217" placeholder="{...}" />
+                <marker date="1442337802131" expanded="true" signature="1241:1400" placeholder="{...}" />
+                <marker date="1442337802131" expanded="true" signature="1432:1504" placeholder="{...}" />
+                <marker date="1442337802131" expanded="true" signature="1534:1605" placeholder="{...}" />
               </folding>
             </state>
           </provider>
@@ -63,11 +60,11 @@
         <option value="$PROJECT_DIR$/browser_support.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/books.html" />
-        <option value="$PROJECT_DIR$/skills.html" />
         <option value="$PROJECT_DIR$/learning.html" />
         <option value="$PROJECT_DIR$/analytics.html" />
         <option value="$PROJECT_DIR$/customers.html" />
         <option value="$PROJECT_DIR$/research.html" />
+        <option value="$PROJECT_DIR$/skills.html" />
       </list>
     </option>
   </component>
@@ -168,7 +165,7 @@
       <recent name="C:\robbinsr.github.io\semantic\src\site" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.research.html">
+  <component name="RunManager" selected="JavaScript Debug.skills.html">
     <configuration default="false" name="skills.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/robbinsr.github.io/skills.html">
       <method />
     </configuration>
@@ -246,11 +243,11 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.research.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.customers.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.analytics.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.learning.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.skills.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.skills.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.research.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.customers.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.analytics.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.learning.html" />
       </list>
     </recent_temporary>
   </component>
@@ -522,10 +519,10 @@
           <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
           <folding>
             <element signature="n#script#5;n#head#0;n#!!top" expanded="false" />
-            <marker date="1442337180832" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1442337180832" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1442337180832" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1442337180832" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1442337802131" expanded="true" signature="1180:1217" placeholder="{...}" />
+            <marker date="1442337802131" expanded="true" signature="1241:1400" placeholder="{...}" />
+            <marker date="1442337802131" expanded="true" signature="1432:1504" placeholder="{...}" />
+            <marker date="1442337802131" expanded="true" signature="1534:1605" placeholder="{...}" />
           </folding>
         </state>
       </provider>
@@ -698,20 +695,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/skills.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19427711">
-          <caret line="44" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="517" selection-end-column="0" />
-          <folding>
-            <element signature="n#script#5;n#head#0;n#!!top" expanded="false" />
-            <marker date="1442337180832" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1442337180832" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1442337180832" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1442337180832" expanded="true" signature="-1:-1" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/learning.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.43825302">
@@ -759,6 +742,20 @@
             <element signature="n#a#5;n#div#1;n#!!top" expanded="false" />
             <element signature="n#a#6;n#div#1;n#!!top" expanded="false" />
             <element signature="n#a#7;n#div#1;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skills.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4307229">
+          <caret line="86" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="517" selection-end-column="0" />
+          <folding>
+            <element signature="n#script#5;n#head#0;n#!!top" expanded="false" />
+            <marker date="1442337802131" expanded="true" signature="1180:1217" placeholder="{...}" />
+            <marker date="1442337802131" expanded="true" signature="1241:1400" placeholder="{...}" />
+            <marker date="1442337802131" expanded="true" signature="1432:1504" placeholder="{...}" />
+            <marker date="1442337802131" expanded="true" signature="1534:1605" placeholder="{...}" />
           </folding>
         </state>
       </provider>
