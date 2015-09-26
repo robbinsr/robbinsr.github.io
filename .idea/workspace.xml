@@ -21,12 +21,65 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="skills-drag-drop-toolboxes.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/skills-drag-drop-toolboxes.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-16.944445">
+              <caret line="419" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="424" selection-end-column="0" />
+              <folding>
+                <element signature="n#div#1;n#body#0;n#!!top" expanded="false" />
+                <element signature="n#div#3;n#body#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="skills-machine-learning-fundamentals.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/skills-machine-learning-fundamentals.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-16.944445">
+              <caret line="401" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="406" selection-end-column="0" />
+              <folding>
+                <element signature="n#div#1;n#body#0;n#!!top" expanded="false" />
+                <element signature="n#div#3;n#body#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="skills-programming-declarative-languages.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/skills-programming-declarative-languages.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-16.944445">
+              <caret line="366" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="371" selection-end-column="0" />
+              <folding>
+                <element signature="n#div#1;n#body#0;n#!!top" expanded="false" />
+                <element signature="n#div#3;n#body#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="skills-programming-fundamentals.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/skills-programming-fundamentals.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-16.944445">
+              <caret line="471" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="476" selection-end-column="0" />
+              <folding>
+                <element signature="n#div#1;n#body#0;n#!!top" expanded="false" />
+                <element signature="n#div#3;n#body#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="skills-programming-statistics-toolboxes.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/skills-programming-statistics-toolboxes.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.5">
-              <caret line="25" column="47" selection-start-line="0" selection-start-column="0" selection-end-line="476" selection-end-column="0" />
+            <state vertical-scroll-proportion="-16.944445">
+              <caret line="471" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="476" selection-end-column="0" />
               <folding>
+                <element signature="n#div#1;n#body#0;n#!!top" expanded="false" />
                 <element signature="n#div#3;n#body#0;n#!!top" expanded="false" />
               </folding>
             </state>
@@ -36,9 +89,10 @@
       <file leaf-file-name="skills-project-management.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/skills-project-management.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.5">
-              <caret line="25" column="47" selection-start-line="0" selection-start-column="0" selection-end-line="477" selection-end-column="0" />
+            <state vertical-scroll-proportion="-16.944445">
+              <caret line="472" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="477" selection-end-column="0" />
               <folding>
+                <element signature="n#div#1;n#body#0;n#!!top" expanded="false" />
                 <element signature="n#div#3;n#body#0;n#!!top" expanded="false" />
               </folding>
             </state>
@@ -48,9 +102,10 @@
       <file leaf-file-name="skills-python-packages.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/skills-python-packages.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.25">
-              <caret line="25" column="48" selection-start-line="0" selection-start-column="0" selection-end-line="476" selection-end-column="0" />
+            <state vertical-scroll-proportion="-16.944445">
+              <caret line="471" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="476" selection-end-column="0" />
               <folding>
+                <element signature="n#div#1;n#body#0;n#!!top" expanded="false" />
                 <element signature="n#div#3;n#body#0;n#!!top" expanded="false" />
               </folding>
             </state>
@@ -60,9 +115,10 @@
       <file leaf-file-name="skills-r-libraries.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/skills-r-libraries.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.5">
-              <caret line="25" column="47" selection-start-line="0" selection-start-column="0" selection-end-line="481" selection-end-column="0" />
+            <state vertical-scroll-proportion="-16.944445">
+              <caret line="476" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="481" selection-end-column="0" />
               <folding>
+                <element signature="n#div#1;n#body#0;n#!!top" expanded="false" />
                 <element signature="n#div#3;n#body#0;n#!!top" expanded="false" />
               </folding>
             </state>
@@ -72,33 +128,23 @@
       <file leaf-file-name="skills-statistics-fundamentals.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/skills-statistics-fundamentals.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.5">
-              <caret line="25" column="47" selection-start-line="0" selection-start-column="0" selection-end-line="477" selection-end-column="0" />
+            <state vertical-scroll-proportion="-16.944445">
+              <caret line="472" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="477" selection-end-column="0" />
               <folding>
+                <element signature="n#div#1;n#body#0;n#!!top" expanded="false" />
                 <element signature="n#div#3;n#body#0;n#!!top" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="skills-training-approaches-tools.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="skills-training-approaches-tools.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/skills-training-approaches-tools.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.5">
-              <caret line="30" column="36" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
+            <state vertical-scroll-proportion="0.55271083">
+              <caret line="441" column="16" selection-start-line="441" selection-start-column="16" selection-end-line="441" selection-end-column="16" />
               <folding>
-                <element signature="n#div#3;n#body#0;n#!!top" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="skills-analytics-fundamentals.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/skills-analytics-fundamentals.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.28463855">
-              <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
-              <folding>
+                <element signature="n#div#1;n#body#0;n#!!top" expanded="false" />
                 <element signature="n#div#3;n#body#0;n#!!top" expanded="false" />
               </folding>
             </state>
@@ -133,12 +179,12 @@
         <option value="$PROJECT_DIR$/skills-1.html" />
         <option value="$PROJECT_DIR$/skills.html" />
         <option value="$PROJECT_DIR$/browser_support.html" />
-        <option value="$PROJECT_DIR$/books.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/learning.html" />
-        <option value="$PROJECT_DIR$/research.html" />
         <option value="$PROJECT_DIR$/analytics.html" />
         <option value="$PROJECT_DIR$/customers.html" />
+        <option value="$PROJECT_DIR$/research.html" />
+        <option value="$PROJECT_DIR$/books.html" />
         <option value="$PROJECT_DIR$/skills-analytics-fundamentals.html" />
         <option value="$PROJECT_DIR$/skills-databases.html" />
         <option value="$PROJECT_DIR$/skills-development-environments.html" />
@@ -239,20 +285,20 @@
       <recent name="C:\robbinsr.github.io\semantic\src\site" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.skills-programming-fundamentals.html">
+  <component name="RunManager" selected="JavaScript Debug.skills-training-approaches-tools.html">
+    <configuration default="false" name="customers.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/robbinsr.github.io/customers.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="research.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/robbinsr.github.io/research.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="analytics.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/robbinsr.github.io/analytics.html">
+      <method />
+    </configuration>
     <configuration default="false" name="books.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/robbinsr.github.io/books.html">
       <method />
     </configuration>
-    <configuration default="false" name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/robbinsr.github.io/index.html">
-      <method />
-    </configuration>
-    <configuration default="false" name="skills-analytics-fundamentals.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/robbinsr.github.io/skills-analytics-fundamentals.html">
-      <method />
-    </configuration>
-    <configuration default="false" name="skills-databases.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/robbinsr.github.io/skills-databases.html">
-      <method />
-    </configuration>
-    <configuration default="false" name="skills-programming-fundamentals.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/robbinsr.github.io/skills-programming-fundamentals.html">
+    <configuration default="false" name="skills-training-approaches-tools.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/robbinsr.github.io/skills-training-approaches-tools.html">
       <method />
     </configuration>
     <configuration default="true" type="BashConfigurationType" factoryName="Bash">
@@ -309,19 +355,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.books.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.skills-analytics-fundamentals.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.skills-databases.html" />
-      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.skills-programming-fundamentals.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.customers.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.research.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.analytics.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.books.html" />
+      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.skills-training-approaches-tools.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.skills-programming-fundamentals.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.skills-databases.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.skills-analytics-fundamentals.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.books.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.skills-training-approaches-tools.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.books.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.research.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.customers.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.analytics.html" />
       </list>
     </recent_temporary>
   </component>
@@ -412,8 +458,10 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#head#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#!!top" expanded="false" />
             <element signature="n#div#3;n#body#0;n#!!top" expanded="false" />
-            <marker date="1443303552462" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1443306884396" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -431,8 +479,10 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#head#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#!!top" expanded="false" />
             <element signature="n#div#3;n#body#0;n#!!top" expanded="false" />
-            <marker date="1443303552462" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1443306884396" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -450,8 +500,10 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#head#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#!!top" expanded="false" />
             <element signature="n#div#3;n#body#0;n#!!top" expanded="false" />
-            <marker date="1443303552462" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1443306884396" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -486,8 +538,10 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#head#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#!!top" expanded="false" />
             <element signature="n#div#3;n#body#0;n#!!top" expanded="false" />
-            <marker date="1443303552462" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1443306884396" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -512,8 +566,10 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#head#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#!!top" expanded="false" />
             <element signature="n#div#3;n#body#0;n#!!top" expanded="false" />
-            <marker date="1443303552462" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1443306884396" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -583,31 +639,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/books.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.93824226">
-          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+        <state vertical-scroll-proportion="-9.75">
+          <caret line="66" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="80" selection-end-column="6" />
           <folding>
-            <element signature="n#div#17;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#head#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#body#0;n#!!top" expanded="false" />
+            <marker date="1443306884396" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/learning.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7695962">
-          <caret line="16" column="48" selection-start-line="0" selection-start-column="0" selection-end-line="263" selection-end-column="0" />
+        <state vertical-scroll-proportion="-15.75">
+          <caret line="259" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="263" selection-end-column="0" />
           <folding>
+            <element signature="n#div#1;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#!!top" expanded="false" />
             <element signature="n#div#4;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/research.html">
+    <entry file="file://$PROJECT_DIR$/analytics.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25653207">
-          <caret line="16" column="48" selection-start-line="0" selection-start-column="0" selection-end-line="195" selection-end-column="0" />
+        <state vertical-scroll-proportion="-16.944445">
+          <caret line="181" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="185" selection-end-column="0" />
           <folding>
+            <element signature="n#div#2;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#!!top" expanded="false" />
             <element signature="n#div#4;n#!!top" expanded="false" />
           </folding>
         </state>
@@ -615,43 +680,64 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/customers.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36104512">
+        <state vertical-scroll-proportion="-14.25">
           <caret line="168" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="172" selection-end-column="0" />
           <folding>
+            <element signature="n#div#1;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#!!top" expanded="false" />
             <element signature="n#div#3;n#body#0;n#!!top" expanded="false" />
             <element signature="n#div#4;n#body#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/analytics.html">
+    <entry file="file://$PROJECT_DIR$/research.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.57719713">
-          <caret line="181" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="185" selection-end-column="0" />
+        <state vertical-scroll-proportion="-15.75">
+          <caret line="191" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="195" selection-end-column="0" />
           <folding>
             <element signature="n#div#1;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#!!top" expanded="false" />
+            <element signature="n#table#0;n#div#3;n#!!top" expanded="false" />
             <element signature="n#div#4;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/books.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35866985">
-          <caret line="66" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="80" selection-end-column="6" />
+        <state vertical-scroll-proportion="-16.944445">
+          <caret line="515" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="519" selection-end-column="0" />
           <folding>
-            <element signature="n#head#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#!!top" expanded="false" />
             <element signature="n#div#3;n#body#0;n#!!top" expanded="false" />
-            <marker date="1443303552462" expanded="true" signature="-1:-1" placeholder="..." />
+            <element signature="n#div#4;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#div#6;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#div#7;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#div#17;n#body#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skills-analytics-fundamentals.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.944445">
+          <caret line="486" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="491" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#1;n#body#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#body#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/skills-databases.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.0">
-          <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="48" />
+        <state vertical-scroll-proportion="-16.944445">
+          <caret line="484" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="489" selection-end-column="0" />
           <folding>
+            <element signature="n#div#1;n#body#0;n#!!top" expanded="false" />
             <element signature="n#div#3;n#body#0;n#!!top" expanded="false" />
           </folding>
         </state>
@@ -659,9 +745,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/skills-development-environments.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.777778">
-          <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+        <state vertical-scroll-proportion="-16.944445">
+          <caret line="498" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="503" selection-end-column="0" />
           <folding>
+            <element signature="n#div#1;n#body#0;n#!!top" expanded="false" />
             <element signature="n#div#3;n#body#0;n#!!top" expanded="false" />
           </folding>
         </state>
@@ -669,9 +756,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/skills-drag-drop-toolboxes.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.5">
-          <caret line="25" column="47" selection-start-line="0" selection-start-column="0" selection-end-line="424" selection-end-column="0" />
+        <state vertical-scroll-proportion="-16.944445">
+          <caret line="419" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="424" selection-end-column="0" />
           <folding>
+            <element signature="n#div#1;n#body#0;n#!!top" expanded="false" />
             <element signature="n#div#3;n#body#0;n#!!top" expanded="false" />
           </folding>
         </state>
@@ -679,9 +767,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/skills-machine-learning-fundamentals.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.5">
-          <caret line="25" column="48" selection-start-line="0" selection-start-column="0" selection-end-line="406" selection-end-column="0" />
+        <state vertical-scroll-proportion="-16.944445">
+          <caret line="401" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="406" selection-end-column="0" />
           <folding>
+            <element signature="n#div#1;n#body#0;n#!!top" expanded="false" />
             <element signature="n#div#3;n#body#0;n#!!top" expanded="false" />
           </folding>
         </state>
@@ -689,9 +778,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/skills-programming-declarative-languages.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.5">
-          <caret line="25" column="48" selection-start-line="0" selection-start-column="0" selection-end-line="371" selection-end-column="0" />
+        <state vertical-scroll-proportion="-16.944445">
+          <caret line="366" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="371" selection-end-column="0" />
           <folding>
+            <element signature="n#div#1;n#body#0;n#!!top" expanded="false" />
             <element signature="n#div#3;n#body#0;n#!!top" expanded="false" />
           </folding>
         </state>
@@ -699,9 +789,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/skills-programming-fundamentals.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24397591">
-          <caret line="25" column="47" selection-start-line="0" selection-start-column="0" selection-end-line="476" selection-end-column="0" />
+        <state vertical-scroll-proportion="-16.944445">
+          <caret line="471" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="476" selection-end-column="0" />
           <folding>
+            <element signature="n#div#1;n#body#0;n#!!top" expanded="false" />
             <element signature="n#div#3;n#body#0;n#!!top" expanded="false" />
           </folding>
         </state>
@@ -709,9 +800,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/skills-programming-statistics-toolboxes.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.5">
-          <caret line="25" column="47" selection-start-line="0" selection-start-column="0" selection-end-line="476" selection-end-column="0" />
+        <state vertical-scroll-proportion="-16.944445">
+          <caret line="471" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="476" selection-end-column="0" />
           <folding>
+            <element signature="n#div#1;n#body#0;n#!!top" expanded="false" />
             <element signature="n#div#3;n#body#0;n#!!top" expanded="false" />
           </folding>
         </state>
@@ -719,9 +811,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/skills-project-management.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.5">
-          <caret line="25" column="47" selection-start-line="0" selection-start-column="0" selection-end-line="477" selection-end-column="0" />
+        <state vertical-scroll-proportion="-16.944445">
+          <caret line="472" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="477" selection-end-column="0" />
           <folding>
+            <element signature="n#div#1;n#body#0;n#!!top" expanded="false" />
             <element signature="n#div#3;n#body#0;n#!!top" expanded="false" />
           </folding>
         </state>
@@ -729,9 +822,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/skills-python-packages.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.25">
-          <caret line="25" column="48" selection-start-line="0" selection-start-column="0" selection-end-line="476" selection-end-column="0" />
+        <state vertical-scroll-proportion="-16.944445">
+          <caret line="471" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="476" selection-end-column="0" />
           <folding>
+            <element signature="n#div#1;n#body#0;n#!!top" expanded="false" />
             <element signature="n#div#3;n#body#0;n#!!top" expanded="false" />
           </folding>
         </state>
@@ -739,9 +833,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/skills-r-libraries.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.5">
-          <caret line="25" column="47" selection-start-line="0" selection-start-column="0" selection-end-line="481" selection-end-column="0" />
+        <state vertical-scroll-proportion="-16.944445">
+          <caret line="476" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="481" selection-end-column="0" />
           <folding>
+            <element signature="n#div#1;n#body#0;n#!!top" expanded="false" />
             <element signature="n#div#3;n#body#0;n#!!top" expanded="false" />
           </folding>
         </state>
@@ -749,9 +844,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/skills-statistics-fundamentals.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.5">
-          <caret line="25" column="47" selection-start-line="0" selection-start-column="0" selection-end-line="477" selection-end-column="0" />
+        <state vertical-scroll-proportion="-16.944445">
+          <caret line="472" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="477" selection-end-column="0" />
           <folding>
+            <element signature="n#div#1;n#body#0;n#!!top" expanded="false" />
             <element signature="n#div#3;n#body#0;n#!!top" expanded="false" />
           </folding>
         </state>
@@ -759,19 +855,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/skills-training-approaches-tools.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.5">
-          <caret line="30" column="36" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
+        <state vertical-scroll-proportion="0.55271083">
+          <caret line="441" column="16" selection-start-line="441" selection-start-column="16" selection-end-line="441" selection-end-column="16" />
           <folding>
-            <element signature="n#div#3;n#body#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/skills-analytics-fundamentals.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28463855">
-          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
-          <folding>
+            <element signature="n#div#1;n#body#0;n#!!top" expanded="false" />
             <element signature="n#div#3;n#body#0;n#!!top" expanded="false" />
           </folding>
         </state>
