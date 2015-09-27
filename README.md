@@ -1,0 +1,1 @@
+This repository contains two files. The one you are reading and an index.html that redirects browsers from https://robbinsr.github.com to https://robbinsr.squarespace.com. At one point, my portfolio was hosted from GitHub.
