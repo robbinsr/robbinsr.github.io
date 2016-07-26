@@ -1,0 +1,236 @@
+Russ Robbins
+phone: 570-884-3647
+email: russ.robbins@outlook.com
+portfolio: https://robbinsr.squarespace.com 
+
+SUMMARY
+
+Managed or co-managed six IT innovations at universities and tens of traditional IT projects at corporations. Led hundreds of individuals on tens of small IT projects. Evaluated or incorporated hundreds of off-the-shelf software programs. Taught 3000+ students. 
+
+SKILLS
+ 					
+* Databases (e.g. Oracle, MySQL, SQL Server)
+* Development environments (e.g. Eclipse, WebStorm, PyCharm)
+* Development processes (e.g. Traceable Requirements, Testing, Validating, Verifying) 
+* Graphically-oriented analytics toolboxes (e.g. RapidMiner, SAP Crystal Reports) 
+* Programming and Declarative Languages (e.g. Java, Python, R, SQL, XML)
+* Programming fundamentals (e.g. Lambda Expressions, Data Structures) 
+* Programming utilities (e.g. GitHub, Regular Expressions Testers) 
+* Programming resources (e.g., Stack Overflow, JSFiddle.com)
+* Project management (e.g. Expectations/Relationship Management, Cost Estimating) 
+* Python packages (e.g. PySpark, Pandas, GraphLab, BeautifulSoup) 
+* R libraries (e.g. caret, ggplot2, ShinyApps, knitr, lattice, rmarkdown)
+* Selling (e.g. lead generation, lead conversion, closing, relationship management)
+* Training approaches and tools (e.g. project-based, problem-based)
+* Detailed list: http://robbinsr.github.io/assets/skills/skills.pdf
+
+EDUCATION
+
+* University of California, Berkeley - Certificate - Big Data (e.g., programming) – Awarded August 2015 
+* Johns Hopkins University - Certificate - Data Science (e.g., statistics) – Awarded May 2015 
+* Rensselaer Polytechnic Institute - Ph.D. Engineering Science – Awarded December 2005 
+* Rensselaer Polytechnic Institute - M.S. Information Technology – Awarded December 2004 
+* Binghamton University - M.S. Accounting – Awarded May 1997 
+* University of Missouri - B.S. Finance – Awarded December 1990
+* University of Pennsylvania – Wharton School – Business Analytics – Expected September 2016
+* University of Washington – Machine Learning – Expected December 2016
+* University of Washington – Data Science at Scale – Expected December 2016
+
+EXPERIENCE
+
+September 2014 through present
+Unemployed
+Student
+
+Developing new data analysis and programming skills via rigorous online certificate programs.
+
+(EXPERIENCE continued on next page.)
+EXPERIENCE (continued from previous page)
+
+Susquehanna University 
+Selinsgrove, PA
+August 2013 to August 2014
+
+Title: Assistant Professor
+Roles: Business Systems Analyst, Trainer
+
+Summary: 
+Taught students how to understand business problems and identify candidate IT-based solutions.
+Details:
+
+* Challenged students to analyze an unsolved problem and design a solution
+* Demarcated students' activities using drivers, constraints, issues, tasks, risks, and costs
+* Guaranteed students' requirements could be traced forward and backward through the SDLC
+* Grounded students' work breakdown, schedule, and budget in requirements 
+* Framed students' requirements in their respective rationales, priorities, and measures
+* Documented students' business events' use cares in AS IS processes and AS IS data stores
+* Enriched students' activities as they designed TO BE processes, TO BE data stores
+* Scaffolded students as they created TO BE forms, TO BE reports, and TO BE navigation schemes
+
+University of Pittsburgh 
+Pittsburgh, PA
+August 2008 to August 2013
+
+Title: Visiting Assistant Professor
+Roles: Project Manager, Data Analyst, Business Systems Analyst, Implementer, Trainer, Developer
+
+Summary: 
+
+Managed all aspects of multiple technology training programs. Created, implemented, and improved SAP solution. Taught 1925 students project management, data analysis, and information systems management.
+
+Details:
+
+* Sold four software projects to National Science Foundation and the University of Pittsburgh
+* Managed $101,491, scope risks, 10 staff, 200+ students, and 100+ requirements, as project manager
+* Directed $23,000, reduced technology risks, and capacitated 7 stakeholders, as project manager
+* Guided $5,200, led 1000+ students, and addressed 100+ needs, as project manager
+* Orchestrated $20,000, realizing 100+ requirements with 10+ stakeholders, as project manager
+* Built learning tool using MySQL, Tomcat, Eclipse, Java EE, Java Server Pages, as software developer
+* Created analytics experiences in SAP, SQL, RapidMiner, as data modeler, and software developer
+
+(EXPERIENCE continued on next page.)
+
+
+EXPERIENCE (continued from previous page)
+
+Marist College 
+Poughkeepsie, NY
+August 2005 to August 2008
+
+Title: Assistant Professor
+Roles: Project Manager, Business Systems Analyst, Trainer, Researcher
+
+Summary: 
+
+Co-managed corporate and research software projects.
+
+Details:
+
+* Sold $90,000 software project to National Science Foundation 
+* Sold several software projects to NXP Semiconductors, Philips Electronics, and IBM; managed same
+* Assured software benefit using IEEE Standards, in project manager role 
+* Understood needs using UML Use Case, Activity, Class, Sequence, State diagrams, as analyst lead
+* Designed solution with UML, entity-relationship (ERD), and data-flow (DFD) diagrams, as design lead 
+* Aided students documenting needs and fulfillment by teaching Rational Rose Software, as trainer
+
+Rensselaer Polytechnic Institute 
+Troy, NY
+January 2001 to July 2005
+
+Title: Clinical Assistant Professor
+Roles: Project Manager, Business Systems Analyst, Data Analyst, Application Developer
+
+Summary: 
+
+Co-managed software projects at corporations and separately built esoteric software.
+
+Details:
+
+* Sold and managed several software projects at GE Specialty Materials and MapInfo
+* Helped students scope and structure problems and needs using IEEE Standards, as project manager
+* Constructed web application that supported decision making, as software developer
+* Invented agent-based software that simulated group decision making, as software developer
+* Taught 420 students, as instructor
+
+(EXPERIENCE continued on next page.)
+
+
+EXPERIENCE (continued from previous page)
+
+Achaean Technology
+Watervliet, NY
+January 1998 to December 2000
+
+Title: President
+Roles: Project Manager, Sales Lead
+
+Summary: 
+
+Prototyped and marketed enterprise software for agencies providing services to the intellectually disabled.
+
+Details:
+
+* Sold enterprise software concept to 10+ executives and middle managers 
+* Motivated 10+ employees as they built, provided, and maintained application
+
+Rensselaer Polytechnic Institute
+Troy, NY
+September 1997 to December 2000
+
+Title: Systems Implementation Specialist
+Role: Business Systems Analyst
+
+Summary: 
+
+Performed ETL, module testing, and data warehouse development. 
+
+* Collaborated with business process owners, built crosswalk, and requirements.
+* Co-transformed and co-loaded 1.4 million records from mainframe to Oracle 7
+* Constructed several reporting applications 
+* Built a proof-of-concept data warehouse that successfully justified project funding 
+* Replicated production environment in data warehouse and wrote update scripts
+* Generated requirements and user documentation for the ERP system web interface
+* Created indexes making data access 55 times faster than in production environment
+* Installed upgrades to and executed patches to Oracle
+* Employed Informatica, Unix scripts, PL/SQL, Oracle, Oracle Forms, SQL*Plus, SQL*Developer
+
+IBM
+Binghamton, NY
+May 1991 to May 1995
+
+Title: Administrative Accountant
+Role: Accounts Payable Clerk
+
+* Led team that delivered $3 billion annually to suppliers and governments
+
+(EXPERIENCE continued on next page.)
+EXPERIENCE (continued from previous page)
+
+US Army
+Fort Huachuca, AZ
+August 1985 to August 1987
+
+Title: Radio Operator (31 Kilo)
+Role: Chauffeur
+
+* Trained as forward observer radio operator
+* Chauffeured lieutenant colonel, major, and command sergeant major
+* Army Service Medal
+* Honorable Discharge
+
+REFERENCES
+
+DR. BRIAN S. BUTLER 
+Professor and Dean of the College of Information Studies 
+University of Maryland 
+301-405-2033, bsbutler@umd.edu
+Brian was my supervisor at the University of Pittsburgh.
+
+DR. WILLIAM E. HEFLEY 
+Clinical Professor of Information Systems in the Naveen Jindal School of Management 
+The University of Texas at Dallas 
+972-883-5006, William.Hefley@utdallas.edu
+Bill was a senior colleague of mine at the University of Pittsburgh.
+
+MS. SHARON L. KUNKEL 
+Registrar at the Office of the Registrar 
+Rensselaer Polytechnic Institute 
+518-276-6028, kunkes@rpi.edu
+Sharon was my “dotted-line” supervisor and customer at Rensselaer.
+
+DR. CHARLEY TICHENOR
+Former staff to Chief Information Officer at the Internal Revenue Service
+Lieutenant Colonel, Retired, US ARMY RESERVE 
+Assistant Professor, Marymount University
+703-901-3033, Charley_tichenor@hotmail.com	
+Charley was a customer of mine at the IRS.
+
+DR. WILLIAM A. WALLACE
+Yamada Corporation Professor of Industrial and Systems Engineering
+Professor of Civil and Environmental Engineering
+Professor of Cognitive Sciences
+518-276-6854, wallaw@rpi.edu
+Al has been my teacher, mentor, patron, colleague, and friend.
+1
+ROBBINS’ RESUME
+

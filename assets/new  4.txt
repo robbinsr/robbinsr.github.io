@@ -1,0 +1,21 @@
+﻿Name: 		Dr. Brian S. Butler, Professor and Dean
+			College of Information Studies, University of Maryland 
+Address:	Room 4105 Hornbake Bldg, South Wing
+			4130 Campus Drive
+			College Park, MD 20742
+Phone:		301-405-2033					
+Name:		Ms. Sharon L. Kunkel, Registrar, Rensselaer Polytechnic Institute 
+Address:	Academy Hall 2615
+			110 8th Street
+			Troy, NY 12180
+Phone:		518-276-6028
+Name:		Dr. Willam A. Wallace, Yamada Corporation Professor
+			Industrial and Systems Engineering
+Address:	Rensselaer Polytechnic Institute
+			CII 5015
+			110 8th Street
+			Troy, NY 12180
+Phone:		518-276-6854
+			
+
+
